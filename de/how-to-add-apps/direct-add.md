@@ -68,7 +68,7 @@ Unterstützt **mehrere Links**: Im selben Eingabefeld können Sie mehrere App St
 
 ## Funktionshinweise
 + Nach erfolgreicher Erkennung erscheint eine Vorschauliste; bei Fehlschlag gibt die Seite einen kurzen Grund an, sodass Sie überprüfen können, ob der Link vollständig ist.
-+ Wenn der Link Regionsinformationen enthält, wird er normalerweise entsprechend dieser Region erkannt; Sie können auch manuell die Region wechseln und es erneut versuchen. Informationen zu Link-Erkennungsregeln: [App-Regionen & Link-Erkennung](/de/region/de)
++ Wenn der Link Regionsinformationen enthält, wird er normalerweise entsprechend dieser Region erkannt; Sie können auch manuell die Region wechseln und es erneut versuchen. Informationen zu Link-Erkennungsregeln: [App-Regionen & Link-Erkennung](/de/region/)
 
 ## Empfohlene Verwendung
 + Legen Sie Einträge zuerst in einem Standard-App-Set ab und organisieren Sie sie später in klassifizierte Sets, um wiederholte Vorgänge zu reduzieren.

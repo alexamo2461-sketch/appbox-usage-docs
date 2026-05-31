@@ -68,7 +68,7 @@ Prend en charge **plusieurs liens** : dans la même zone de saisie, utilisez des
 
 ## Notes
 + Une liste d'aperçu apparaît après une reconnaissance réussie ; en cas d'échec, la page fournit une brève raison, vous permettant de vérifier si le lien est complet.
-+ Si le lien contient des informations régionales, il est généralement reconnu selon cette région ; vous pouvez également changer manuellement de région et réessayer. Règles de reconnaissance des liens : [Régions d'app & reconnaissance de liens](/fr/region/fr)
++ Si le lien contient des informations régionales, il est généralement reconnu selon cette région ; vous pouvez également changer manuellement de région et réessayer. Règles de reconnaissance des liens : [Régions d'app & reconnaissance de liens](/fr/region/)
 
 ## Utilisation recommandée
 + Placez d'abord les éléments dans une collection d'applications par défaut, puis organisez-les plus tard dans des collections classifiées pour réduire les opérations répétitives.

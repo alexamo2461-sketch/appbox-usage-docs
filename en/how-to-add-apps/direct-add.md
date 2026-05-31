@@ -68,7 +68,7 @@ Supports **multiple links**: In the same input box, use **line breaks** or **Eng
 
 ## Feature Notes
 + A preview list will appear after successful recognition; if it fails, the page will provide a short reason, allowing you to check if the link is complete.
-+ If the link contains regional information, it is usually recognized according to that region; you can also manually switch regions and try again. Regarding link recognition rules: [App Regions & Link Recognition](/en/region/en)
++ If the link contains regional information, it is usually recognized according to that region; you can also manually switch regions and try again. Regarding link recognition rules: [App Regions & Link Recognition](/en/region/)
 
 ## Recommended Usage
 + Put items into a default app set first, then organize them into classified sets later to reduce repetitive operations.

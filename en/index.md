@@ -9,7 +9,7 @@ As the name suggests, **AppBox** is a "box for your apps"—a utility designed f
 ## ❓ FAQ
 
 - [Data Recovery: Restoring Lost Data from Older Versions](/en/faq/data-recovery)
-- [App Regions & Link Recognition](/en/region/en)
+- [App Regions & Link Recognition](/en/region/)
 - [Why do some apps have no screenshots on their details page?](/en/faq/no-screenshots)
 - [What is the Data Update setting for?](/en/faq/data-update-setting)
 - [How to Quickly Import Apps from the App Store](/en/faq/quick-import-appstore)

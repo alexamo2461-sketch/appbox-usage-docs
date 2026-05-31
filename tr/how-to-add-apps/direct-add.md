@@ -68,7 +68,7 @@ App Store uygulama sayfasının bağlantısını yapıştırarak AppBox'ın simg
 
 ## İşlev Açıklaması
 + Tanıma başarılı olduğunda önizleme listesi görünür; başarısız olduğunda sayfada kısa bir neden belirtilir, bağlantının tam olup olmadığını kontrol edebilirsiniz.
-+ Bağlantı bölge bilgisi içeriyorsa, genellikle bağlantıdaki mağaza bölgesine göre tanınır; ayrıca bölgeyi manuel olarak değiştirip tekrar deneyebilirsiniz. Bağlantı tanıma kuralları hakkında: [Uygulama Bölgesi ve APP Bağlantı Tanıma](/region/tr)
++ Bağlantı bölge bilgisi içeriyorsa, genellikle bağlantıdaki mağaza bölgesine göre tanınır; ayrıca bölgeyi manuel olarak değiştirip tekrar deneyebilirsiniz. Bağlantı tanıma kuralları hakkında: [Uygulama Bölgesi ve APP Bağlantı Tanıma](/tr/region/)
 
 ## Önerilen Kullanım
 + Önce varsayılan uygulama setine ekleyin, daha sonra kategorilere ayırın, böylece tekrarlanan işlemleri azaltın.

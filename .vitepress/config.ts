@@ -31,7 +31,7 @@ export default defineConfig({
             link: '/faq/',
             items: [
               { text: '旧版本数据丢失恢复/找回', link: '/faq/data-recovery' },
-              { text: '应用地区与APP链接识别', link: '/region/zh-CN' },
+              { text: '应用地区与APP链接识别', link: '/region/' },
               { text: '有的应用在详情页面没有截图', link: '/faq/no-screenshots' },
               { text: '数据更新设置是做什么用的', link: '/faq/data-update-setting' },
               { text: '如何在AppStore商店中快速导入应用', link: '/faq/quick-import-appstore' },
@@ -150,7 +150,7 @@ export default defineConfig({
             link: '/zh-TW/faq/',
             items: [
               { text: '舊版本數據丟失恢復/找回', link: '/zh-TW/faq/data-recovery' },
-              { text: '應用地區與APP連結識別', link: '/zh-TW/region/zh-TW' },
+              { text: '應用地區與APP連結識別', link: '/zh-TW/region/' },
               { text: '有的應用在詳情頁面沒有截圖', link: '/zh-TW/faq/no-screenshots' },
               { text: '數據更新設定是做什麼用的', link: '/zh-TW/faq/data-update-setting' },
               { text: '如何在AppStore商店中快速導入應用', link: '/zh-TW/faq/quick-import-appstore' },
@@ -269,7 +269,7 @@ export default defineConfig({
             link: '/en/faq/',
             items: [
               { text: 'Data Recovery: Restoring Lost Data from Older Versions', link: '/en/faq/data-recovery' },
-              { text: 'App Regions & Link Recognition', link: '/en/region/en' },
+              { text: 'App Regions & Link Recognition', link: '/en/region/' },
               { text: 'Why do some apps have no screenshots on their details page?', link: '/en/faq/no-screenshots' },
               { text: 'What is the Data Update setting for?', link: '/en/faq/data-update-setting' },
               { text: 'How to Quickly Import Apps from the App Store', link: '/en/faq/quick-import-appstore' },
@@ -387,7 +387,7 @@ export default defineConfig({
             link: '/ja/faq/',
             items: [
               { text: '旧バージョンのデータ消失からの復元/復旧', link: '/ja/faq/data-recovery' },
-              { text: 'アプリ地域とリンク認識', link: '/ja/region/ja' },
+              { text: 'アプリ地域とリンク認識', link: '/ja/region/' },
               { text: '一部のアプリの詳細ページにスクリーンショットがない', link: '/ja/faq/no-screenshots' },
               { text: 'データ更新設定は何をするものですか？', link: '/ja/faq/data-update-setting' },
               { text: 'App Store からアプリをすばやくインポートする方法', link: '/ja/faq/quick-import-appstore' },
@@ -506,7 +506,7 @@ export default defineConfig({
             link: '/ko/faq/',
             items: [
               { text: '이전 버전 데이터 손실 복구/찾기', link: '/ko/faq/data-recovery' },
-              { text: '앱 지역 및 링크 인식', link: '/ko/region/ko' },
+              { text: '앱 지역 및 링크 인식', link: '/ko/region/' },
               { text: '일부 앱의 상세 페이지에 스크린샷이 없습니다', link: '/ko/faq/no-screenshots' },
               { text: '데이터 업데이트 설정은 무엇을 위한 것인가요?', link: '/ko/faq/data-update-setting' },
               { text: 'App Store에서 앱을 빠르게 가져오는 방법', link: '/ko/faq/quick-import-appstore' },
@@ -625,7 +625,7 @@ export default defineConfig({
             link: '/de/faq/',
             items: [
               { text: 'Datenwiederherstellung bei Verlust älterer Versionen', link: '/de/faq/data-recovery' },
-              { text: 'App-Regionen & Link-Erkennung', link: '/de/region/de' },
+              { text: 'App-Regionen & Link-Erkennung', link: '/de/region/' },
               { text: 'Einige Apps haben keine Screenshots auf der Detailseite', link: '/de/faq/no-screenshots' },
               { text: 'Wofür ist die Datenaktualisierungseinstellung?', link: '/de/faq/data-update-setting' },
               { text: 'Wie importiere ich Apps schnell aus dem App Store?', link: '/de/faq/quick-import-appstore' },
@@ -744,7 +744,7 @@ export default defineConfig({
             link: '/fr/faq/',
             items: [
               { text: 'Récupération des données perdues des anciennes versions', link: '/fr/faq/data-recovery' },
-              { text: 'Régions d\'app & reconnaissance de liens', link: '/fr/region/fr' },
+              { text: 'Régions d\'app & reconnaissance de liens', link: '/fr/region/' },
               { text: 'Certaines applications n\'ont pas de capture d\'écran sur la page de détails', link: '/fr/faq/no-screenshots' },
               { text: 'À quoi sert le paramètre de mise à jour des données ?', link: '/fr/faq/data-update-setting' },
               { text: 'Comment importer rapidement des applications depuis l\'App Store ?', link: '/fr/faq/quick-import-appstore' },
@@ -863,7 +863,7 @@ export default defineConfig({
             link: '/ru/faq/',
             items: [
               { text: 'Восстановление потерянных данных старых версий', link: '/ru/faq/data-recovery' },
-              { text: 'Регионы приложений и распознавание ссылок', link: '/ru/region/ru' },
+              { text: 'Регионы приложений и распознавание ссылок', link: '/ru/region/' },
               { text: 'У некоторых приложений нет скриншотов на странице сведений', link: '/ru/faq/no-screenshots' },
               { text: 'Для чего нужна настройка обновления данных?', link: '/ru/faq/data-update-setting' },
               { text: 'Как быстро импортировать приложения из App Store?', link: '/ru/faq/quick-import-appstore' },
@@ -982,7 +982,7 @@ export default defineConfig({
             link: '/tr/faq/',
             items: [
               { text: 'Eski sürüm veri kaybı kurtarma/bulma', link: '/tr/faq/data-recovery' },
-              { text: 'Uygulama Bölgeleri ve Bağlantı Tanıma', link: '/tr/region/tr' },
+              { text: 'Uygulama Bölgeleri ve Bağlantı Tanıma', link: '/tr/region/' },
               { text: 'Bazı uygulamaların detay sayfasında ekran görüntüsü yok', link: '/tr/faq/no-screenshots' },
               { text: 'Veri güncelleme ayarı ne işe yarar?', link: '/tr/faq/data-update-setting' },
               { text: 'App Store\'dan uygulamalar nasıl hızlıca içe aktarılır?', link: '/tr/faq/quick-import-appstore' },
