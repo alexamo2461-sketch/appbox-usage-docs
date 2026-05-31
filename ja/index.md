@@ -2,9 +2,10 @@
 
 AppBoxはその名の通り「アプリを入れるための箱」であり、アプリを収集・管理するためのツールです。「コレクション」を作成してお気に入りのアプリを整理し、コレクションの説明、アプリの説明、カスタム属性情報の記録などの機能を提供します。
 
-## 💬 フィードバック
+## 📖 はじめに
 
-- [開発者に連絡する](/ja/feedback/contact-developer)
+- [ホーム](/ja/)
+- [フィードバック](/ja/feedback/contact-developer)
 
 ## ❓ よくある質問
 
@@ -19,8 +20,6 @@ AppBoxはその名の通り「アプリを入れるための箱」であり、�
 - [AppBox 内で直接追加](/ja/how-to-add-apps/direct-add)
 - [共有拡張機能でアプリを追加](/ja/how-to-add-apps/share-extension)
 - [QRコードまたはリンクからインポート](/ja/how-to-add-apps/qr-link-import)
-- [データインポート：AppBox からエクスポートしたデータ](/ja/how-to-add-apps/data-import)
-- [データインポート：Apple data](/ja/how-to-add-apps/apple-data)
 
 ## 🗺️ 製品ロードマップ
 
@@ -36,10 +35,12 @@ AppBoxはその名の通り「アプリを入れるための箱」であり、�
 - [同期機能の説明](/ja/sync/overview)
 - [同期が利用できない問題](/ja/sync/troubleshooting)
 
-## 💾 データバックアップと復元
+## 💾 データインポートとエクスポート
 
 - [データバックアップ（データエクスポート）](/ja/backup-restore/export)
 - [データ復元（データインポート）](/ja/backup-restore/import)
+- [データインポート：AppBox からエクスポートしたデータ](/ja/backup-restore/data-import)
+- [データインポート：Apple data](/ja/backup-restore/apple-data)
 
 ## 🔧 基本機能
 

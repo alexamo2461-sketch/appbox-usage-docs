@@ -1,3 +1,4 @@
-# ℹ️ Feedback
+# 📖 Erste Schritte
 
-- [Entwickler kontaktieren](/de/feedback/contact-developer)
+- [Startseite](/de/)
+- [Feedback](/de/feedback/contact-developer)

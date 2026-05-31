@@ -2,9 +2,10 @@
 
 AppBox는 이름 그대로 "앱을 담는 상자"로, 앱을 수집하고 관리하기 위한 도구입니다. "컬렉션"을 만들어 좋아하는 앱을 기록하고, 컬렉션 설명, 앱 설명, 사용자 정의 속성 정보 기록 등의 기능을 제공합니다.
 
-## 💬 피드백
+## 📖 시작하기
 
-- [개발자에게 문의하기](/ko/feedback/contact-developer)
+- [홈](/ko/)
+- [피드백](/ko/feedback/contact-developer)
 
 ## ❓ 자주 묻는 질문
 
@@ -19,8 +20,6 @@ AppBox는 이름 그대로 "앱을 담는 상자"로, 앱을 수집하고 관리
 - [AppBox 내에서 직접 추가](/ko/how-to-add-apps/direct-add)
 - [공유 확장 기능으로 앱 추가](/ko/how-to-add-apps/share-extension)
 - [QR코드 또는 링크에서 가져오기](/ko/how-to-add-apps/qr-link-import)
-- [데이터 가져오기: AppBox에서 내보낸 데이터](/ko/how-to-add-apps/data-import)
-- [데이터 가져오기: Apple data](/ko/how-to-add-apps/apple-data)
 
 ## 🗺️ 제품 로드맵
 
@@ -36,10 +35,12 @@ AppBox는 이름 그대로 "앱을 담는 상자"로, 앱을 수집하고 관리
 - [동기화 기능 설명](/ko/sync/overview)
 - [동기화 사용 불가 문제](/ko/sync/troubleshooting)
 
-## 💾 데이터 백업 및 복원
+## 💾 데이터 가져오기 및 내보내기
 
 - [데이터 백업 (데이터 내보내기)](/ko/backup-restore/export)
 - [데이터 복원 (데이터 가져오기)](/ko/backup-restore/import)
+- [데이터 가져오기: AppBox에서 내보낸 데이터](/ko/backup-restore/data-import)
+- [데이터 가져오기: Apple data](/ko/backup-restore/apple-data)
 
 ## 🔧 기본 기능
 

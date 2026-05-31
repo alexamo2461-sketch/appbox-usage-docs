@@ -1,4 +1,4 @@
-# Contacter le développeur
+# Commentaires
 
 ## Méthode 1 : Rejoindre les groupes d'utilisateurs👥
 

@@ -1,4 +1,4 @@
-# Geliştiriciyle İletişime Geçin
+# Geri Bildirim
 
 ## Yöntem 1: Kullanıcı Gruplarına Katılın👥
 

@@ -1,3 +1,4 @@
-# ℹ️ 建議與反饋
+# 📖 開始
 
-- [如何聯繫開發者](/zh-TW/feedback/contact-developer)
+- [首頁](/zh-TW/)
+- [建議與反饋](/zh-TW/feedback/contact-developer)

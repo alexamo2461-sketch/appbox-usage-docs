@@ -1,3 +1,4 @@
-# ℹ️ Feedback
+# 📖 Getting Started
 
-- [Contact Developer](/en/feedback/contact-developer)
+- [Home](/en/)
+- [Feedback](/en/feedback/contact-developer)

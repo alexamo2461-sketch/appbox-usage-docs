@@ -1,3 +1,4 @@
-# ℹ️ 피드백
+# 📖 시작하기
 
-- [개발자에게 문의하기](/ko/feedback/contact-developer)
+- [홈](/ko/)
+- [피드백](/ko/feedback/contact-developer)

@@ -1,5 +1,4 @@
-# ℹ️ Öneri ve Geri Bildirim
+# 📖 Başlangıç
 
-> **‼️‼️** **Herhangi bir sorunla karşılaşırsanız lütfen geliştiriciyle iletişime geçin**
-
-- [Geliştiriciyle İletişime Geçin](/tr/feedback/contact-developer)
+- [Ana Sayfa](/tr/)
+- [Geri Bildirim](/tr/feedback/contact-developer)

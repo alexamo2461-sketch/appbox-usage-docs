@@ -2,9 +2,10 @@
 
 AppBox ist, wie der Name schon sagt, eine "Box für deine Apps" – ein Werkzeug zum Sammeln und Verwalten von Anwendungen. Du kannst deine Lieblingsapps organisieren, indem du **Sammlungen** erstellst, mit Sammlungsbeschreibungen, App-Notizen und benutzerdefinierten Attributen.
 
-## 💬 Feedback
+## 📖 Erste Schritte
 
-- [Entwickler kontaktieren](/de/feedback/contact-developer)
+- [Startseite](/de/)
+- [Feedback](/de/feedback/contact-developer)
 
 ## ❓ FAQ
 
@@ -19,8 +20,6 @@ AppBox ist, wie der Name schon sagt, eine "Box für deine Apps" – ein Werkzeug
 - [Direkt in AppBox hinzufügen](/de/how-to-add-apps/direct-add)
 - [Über die Share Extension hinzufügen](/de/how-to-add-apps/share-extension)
 - [QR-Code oder Link zum Importieren](/de/how-to-add-apps/qr-link-import)
-- [Datenimport: Aus AppBox exportierte Daten](/de/how-to-add-apps/data-import)
-- [Datenimport: Apple-Daten](/de/how-to-add-apps/apple-data)
 
 ## 🗺️ Produkt-Roadmap
 
@@ -36,10 +35,12 @@ AppBox ist, wie der Name schon sagt, eine "Box für deine Apps" – ein Werkzeug
 - [Sync-Funktionsbeschreibung](/de/sync/overview)
 - [Problem: Synchronisation nicht verfügbar](/de/sync/troubleshooting)
 
-## 💾 Datensicherung und -wiederherstellung
+## 💾 Datenimport und -export
 
 - [Datensicherung (Datenexport)](/de/backup-restore/export)
 - [Datenwiederherstellung (Datenimport)](/de/backup-restore/import)
+- [Datenimport: Aus AppBox exportierte Daten](/de/backup-restore/data-import)
+- [Datenimport: Apple-Daten](/de/backup-restore/apple-data)
 
 ## 🔧 Grundfunktionen
 

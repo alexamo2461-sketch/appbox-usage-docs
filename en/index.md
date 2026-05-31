@@ -2,9 +2,10 @@
 
 As the name suggests, **AppBox** is a "box for your apps"—a utility designed for collecting and managing applications. It allows you to organize your favorite apps by creating **App Collections**, complete with features such as collection descriptions, app-specific notes, and customizable attribute tracking.
 
-## 💬 Feedback
+## 📖 Getting Started
 
-- [Contact Developer](/en/feedback/contact-developer)
+- [Home](/en/)
+- [Feedback](/en/feedback/contact-developer)
 
 ## ❓ FAQ
 
@@ -19,8 +20,6 @@ As the name suggests, **AppBox** is a "box for your apps"—a utility designed f
 - [Direct Addition within AppBox](/en/how-to-add-apps/direct-add)
 - [Add via Share Extension](/en/how-to-add-apps/share-extension)
 - [Add via Shortcuts](/en/how-to-add-apps/qr-link-import)
-- [Data Import: Data exported from AppBox](/en/how-to-add-apps/data-import)
-- [Data Import: Apple data](/en/how-to-add-apps/apple-data)
 
 ## 🗺️ Product Roadmap
 
@@ -36,10 +35,12 @@ As the name suggests, **AppBox** is a "box for your apps"—a utility designed f
 - [Cloud Sync Overview](/en/sync/overview)
 - [Troubleshooting: Cloud Sync Unavailable](/en/sync/troubleshooting)
 
-## 💾 Backup & Restore
+## 💾 Data Import & Export
 
 - [Data Backup (Data Export)](/en/backup-restore/export)
 - [Data Recovery (Data Import)](/en/backup-restore/import)
+- [Data Import: Data exported from AppBox](/en/backup-restore/data-import)
+- [Data Import: Apple data](/en/backup-restore/apple-data)
 
 ## 🔧 Core Features
 

@@ -5,5 +5,3 @@
 - [在 AppBox 内直接添加](/how-to-add-apps/direct-add)
 - [通过分享插件添加应用](/how-to-add-apps/share-extension)
 - [从二维码或链接导入](/how-to-add-apps/qr-link-import)
-- [数据导入：AppBox导出的数据](/how-to-add-apps/data-import)
-- [数据导入：Apple data数据](/how-to-add-apps/apple-data)

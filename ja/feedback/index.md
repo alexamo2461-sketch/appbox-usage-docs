@@ -1,3 +1,4 @@
-# ℹ️ フィードバック
+# 📖 はじめに
 
-- [開発者に連絡する](/ja/feedback/contact-developer)
+- [ホーム](/ja/)
+- [フィードバック](/ja/feedback/contact-developer)

@@ -5,5 +5,3 @@
 1. [Прямое добавление в AppBox](/ru/how-to-add-apps/direct-add)
 2. [Добавление через расширение «Поделиться»](/ru/how-to-add-apps/share-extension)
 3. [Импорт по QR-коду или ссылке](/ru/how-to-add-apps/qr-link-import)
-4. [Импорт данных: данные, экспортированные из AppBox](/ru/how-to-add-apps/data-import)
-5. Импорт данных: Apple data

@@ -2,9 +2,10 @@
 
 AppBox, adından da anlaşılacağı gibi "uygulamalarınız için bir kutu"dur – uygulamaları toplamak ve yönetmek için tasarlanmış bir araçtır. **Koleksiyonlar** oluşturarak favori uygulamalarınızı düzenlemenize olanak tanır; koleksiyon açıklamaları, uygulama notları ve özel nitelik takibi gibi özellikler sunar.
 
-## 💬 Geri Bildirim
+## 📖 Başlangıç
 
-- [Geliştiriciyle İletişime Geçin](/tr/feedback/contact-developer)
+- [Ana Sayfa](/tr/)
+- [Geri Bildirim](/tr/feedback/contact-developer)
 
 ## ❓ SSS
 
@@ -19,8 +20,6 @@ AppBox, adından da anlaşılacağı gibi "uygulamalarınız için bir kutu"dur 
 - [AppBox içinde doğrudan ekleme](/tr/how-to-add-apps/direct-add)
 - [Paylaşım eklentisi ile uygulama ekleme](/tr/how-to-add-apps/share-extension)
 - [QR kod veya bağlantıdan içe aktarma](/tr/how-to-add-apps/qr-link-import)
-- [Veri içe aktarma: AppBox'tan dışa aktarılan veriler](/tr/how-to-add-apps/data-import)
-- [Veri içe aktarma: Apple data](/tr/how-to-add-apps/apple-data)
 
 ## 🗺️ Ürün Yol Haritası
 
@@ -36,10 +35,12 @@ AppBox, adından da anlaşılacağı gibi "uygulamalarınız için bir kutu"dur 
 - [Senkronizasyon özellik açıklaması](/tr/sync/overview)
 - [Senkronizasyon kullanılamıyor sorunu](/tr/sync/troubleshooting)
 
-## 💾 Veri Yedekleme ve Geri Yükleme
+## 💾 Veri İçe ve Dışa Aktarma
 
 - [Veri yedekleme (veri dışa aktarma)](/tr/backup-restore/export)
 - [Veri geri yükleme (veri içe aktarma)](/tr/backup-restore/import)
+- [Veri içe aktarma: AppBox'tan dışa aktarılan veriler](/tr/backup-restore/data-import)
+- [Veri içe aktarma: Apple data](/tr/backup-restore/apple-data)
 
 ## 🔧 Temel Özellikler
 

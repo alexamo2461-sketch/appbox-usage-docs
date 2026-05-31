@@ -20,21 +20,21 @@ export default defineConfig({
         ],
         sidebar: [
           {
-            text: '💬 建议与反馈',
-            link: '/feedback/',
+            text: '📖 开始',
             items: [
-              { text: '如何联系开发者', link: '/feedback/contact-developer' },
+              { text: '首页', link: '/' },
+              { text: '建议与反馈', link: '/feedback/contact-developer' },
             ],
           },
           {
             text: '❓ 常见问题',
             link: '/faq/',
             items: [
-              { text: '旧版本数据丢失恢复/找回', link: '/faq/data-recovery' },
+              { text: '数据丢失找回', link: '/faq/data-recovery' },
               { text: '应用地区与APP链接识别', link: '/region/' },
               { text: '有的应用在详情页面没有截图', link: '/faq/no-screenshots' },
               { text: '数据更新设置是做什么用的', link: '/faq/data-update-setting' },
-              { text: '如何在AppStore商店中快速导入应用', link: '/faq/quick-import-appstore' },
+              { text: '如何在AppStore商店中快速导入应用', link: '/how-to-add-apps/share-extension' },
             ],
           },
           {
@@ -44,39 +44,6 @@ export default defineConfig({
               { text: '在 AppBox 内直接添加', link: '/how-to-add-apps/direct-add' },
               { text: '通过分享插件添加应用', link: '/how-to-add-apps/share-extension' },
               { text: '从二维码或链接导入', link: '/how-to-add-apps/qr-link-import' },
-              { text: '数据导入：AppBox导出的数据', link: '/how-to-add-apps/data-import' },
-              { text: '数据导入：Apple data数据', link: '/how-to-add-apps/apple-data' },
-            ],
-          },
-          {
-            text: '🗺️ 产品路线图',
-            link: '/roadmap/',
-            items: [
-              { text: '版本日志', link: '/roadmap/release-notes' },
-            ],
-          },
-          {
-            text: '⭐ 会员相关',
-            link: '/membership/',
-            items: [
-              { text: '会员功能说明', link: '/membership/feature-overview' },
-              { text: '购买相关说明', link: '/membership/purchase' },
-            ],
-          },
-          {
-            text: '🔄 数据同步功能',
-            link: '/sync/',
-            items: [
-              { text: '同步功能说明', link: '/sync/overview' },
-              { text: '同步不可用的问题', link: '/sync/troubleshooting' },
-            ],
-          },
-          {
-            text: '💾 数据备份与恢复',
-            link: '/backup-restore/',
-            items: [
-              { text: '数据备份（数据导出）', link: '/backup-restore/export' },
-              { text: '数据恢复（数据导入）', link: '/backup-restore/import' },
             ],
           },
           {
@@ -115,11 +82,43 @@ export default defineConfig({
             ],
           },
           {
+            text: '⭐ 会员相关',
+            link: '/membership/',
+            items: [
+              { text: '会员功能说明', link: '/membership/feature-overview' },
+              { text: '购买相关说明', link: '/membership/purchase' },
+            ],
+          },
+          {
+            text: '☁️ 数据同步',
+            link: '/sync/',
+            items: [
+              { text: '同步功能说明', link: '/sync/overview' },
+              { text: '同步不可用？', link: '/sync/troubleshooting' },
+            ],
+          },
+          {
+            text: '💾 数据导入与导出',
+            link: '/backup-restore/',
+            items: [
+              { text: '数据备份（数据导出）', link: '/backup-restore/export' },
+              { text: '数据导入：AppBox导出的数据', link: '/backup-restore/data-import' },
+              { text: '数据导入：Apple data数据', link: '/backup-restore/apple-data' },
+            ],
+          },
+          {
             text: '⚙️ 设置功能',
             link: '/settings/',
             items: [
               { text: '数据更新', link: '/settings/data-update' },
               { text: '设置主题（颜色与模式）', link: '/settings/theme' },
+            ],
+          },
+          {
+            text: '📄 更多',
+            items: [
+              { text: '隐私政策', link: '/privacy-policy' },
+              { text: '版本日志', link: '/roadmap/release-notes' },
             ],
           },
         ],
@@ -132,28 +131,28 @@ export default defineConfig({
       description: 'AppBox 幫助文檔 - 繁體中文',
       themeConfig: {
         nav: [
-          { text: '🏠 首頁', link: '/zh-TW/' },
-          { text: '❓ 常見問題', link: '/zh-TW/faq/' },
-          { text: '🔧 基礎功能', link: '/zh-TW/basic-features/' },
-          { text: '⚙️ 設定', link: '/zh-TW/settings/' },
+          { text: '首頁', link: '/zh-TW/' },
+          { text: '常見問題', link: '/zh-TW/faq/' },
+          { text: '基礎功能', link: '/zh-TW/basic-features/' },
+          { text: '設定', link: '/zh-TW/settings/' },
         ],
         sidebar: [
           {
-            text: '💬 建議與反饋',
-            link: '/zh-TW/feedback/',
+            text: '📖 開始',
             items: [
-              { text: '如何聯繫開發者', link: '/zh-TW/feedback/contact-developer' },
+              { text: '首頁', link: '/zh-TW/' },
+              { text: '建議與反饋', link: '/zh-TW/feedback/contact-developer' },
             ],
           },
           {
             text: '❓ 常見問題',
             link: '/zh-TW/faq/',
             items: [
-              { text: '舊版本數據丟失恢復/找回', link: '/zh-TW/faq/data-recovery' },
+              { text: '數據丟失找回', link: '/zh-TW/faq/data-recovery' },
               { text: '應用地區與APP連結識別', link: '/zh-TW/region/' },
               { text: '有的應用在詳情頁面沒有截圖', link: '/zh-TW/faq/no-screenshots' },
               { text: '數據更新設定是做什麼用的', link: '/zh-TW/faq/data-update-setting' },
-              { text: '如何在AppStore商店中快速導入應用', link: '/zh-TW/faq/quick-import-appstore' },
+              { text: '如何在AppStore商店中快速導入應用', link: '/zh-TW/how-to-add-apps/share-extension' },
             ],
           },
           {
@@ -163,39 +162,6 @@ export default defineConfig({
               { text: '在 AppBox 內直接添加', link: '/zh-TW/how-to-add-apps/direct-add' },
               { text: '通過分享外掛添加應用', link: '/zh-TW/how-to-add-apps/share-extension' },
               { text: '從二維碼或連結導入', link: '/zh-TW/how-to-add-apps/qr-link-import' },
-              { text: '數據導入：AppBox導出的數據', link: '/zh-TW/how-to-add-apps/data-import' },
-              { text: '數據導入：Apple data數據', link: '/zh-TW/how-to-add-apps/apple-data' },
-            ],
-          },
-          {
-            text: '🗺️ 產品路線圖',
-            link: '/zh-TW/roadmap/',
-            items: [
-              { text: '版本日誌', link: '/zh-TW/roadmap/release-notes' },
-            ],
-          },
-          {
-            text: '⭐ 會員相關',
-            link: '/zh-TW/membership/',
-            items: [
-              { text: '會員功能說明', link: '/zh-TW/membership/feature-overview' },
-              { text: '購買相關說明', link: '/zh-TW/membership/purchase' },
-            ],
-          },
-          {
-            text: '🔄 數據同步功能',
-            link: '/zh-TW/sync/',
-            items: [
-              { text: '同步功能說明', link: '/zh-TW/sync/overview' },
-              { text: '同步不可用的問題', link: '/zh-TW/sync/troubleshooting' },
-            ],
-          },
-          {
-            text: '💾 數據備份與恢復',
-            link: '/zh-TW/backup-restore/',
-            items: [
-              { text: '數據備份（數據導出）', link: '/zh-TW/backup-restore/export' },
-              { text: '數據恢復（數據導入）', link: '/zh-TW/backup-restore/import' },
             ],
           },
           {
@@ -234,11 +200,43 @@ export default defineConfig({
             ],
           },
           {
+            text: '⭐ 會員相關',
+            link: '/zh-TW/membership/',
+            items: [
+              { text: '會員功能說明', link: '/zh-TW/membership/feature-overview' },
+              { text: '購買相關說明', link: '/zh-TW/membership/purchase' },
+            ],
+          },
+          {
+            text: '☁️ 數據同步',
+            link: '/zh-TW/sync/',
+            items: [
+              { text: '同步功能說明', link: '/zh-TW/sync/overview' },
+              { text: '同步不可用？', link: '/zh-TW/sync/troubleshooting' },
+            ],
+          },
+          {
+            text: '💾 數據導入與導出',
+            link: '/zh-TW/backup-restore/',
+            items: [
+              { text: '數據備份（數據導出）', link: '/zh-TW/backup-restore/export' },
+              { text: '數據導入：AppBox導出的數據', link: '/zh-TW/backup-restore/data-import' },
+              { text: '數據導入：Apple data數據', link: '/zh-TW/backup-restore/apple-data' },
+            ],
+          },
+          {
             text: '⚙️ 設定功能',
             link: '/zh-TW/settings/',
             items: [
               { text: '數據更新', link: '/zh-TW/settings/data-update' },
               { text: '設定主題（顏色與模式）', link: '/zh-TW/settings/theme' },
+            ],
+          },
+          {
+            text: '📄 更多',
+            items: [
+              { text: '隱私政策', link: '/zh-TW/privacy-policy' },
+              { text: '版本日誌', link: '/zh-TW/roadmap/release-notes' },
             ],
           },
         ],
@@ -251,28 +249,28 @@ export default defineConfig({
       description: 'AppBox Documentation - English',
       themeConfig: {
         nav: [
-          { text: '🏠 Home', link: '/en/' },
-          { text: '❓ FAQ', link: '/en/faq/' },
-          { text: '🔧 Core Features', link: '/en/basic-features/' },
-          { text: '⚙️ Settings', link: '/en/settings/' },
+          { text: 'Home', link: '/en/' },
+          { text: 'FAQ', link: '/en/faq/' },
+          { text: 'Core Features', link: '/en/basic-features/' },
+          { text: 'Settings', link: '/en/settings/' },
         ],
         sidebar: [
           {
-            text: '💬 Feedback',
-            link: '/en/feedback/',
+            text: '📖 Getting Started',
             items: [
-              { text: 'Contact Developer', link: '/en/feedback/contact-developer' },
+              { text: 'Home', link: '/en/' },
+              { text: 'Feedback', link: '/en/feedback/contact-developer' },
             ],
           },
           {
             text: '❓ FAQ',
             link: '/en/faq/',
             items: [
-              { text: 'Data Recovery: Restoring Lost Data from Older Versions', link: '/en/faq/data-recovery' },
+              { text: 'Data Recovery: Restoring Lost Data', link: '/en/faq/data-recovery' },
               { text: 'App Regions & Link Recognition', link: '/en/region/' },
               { text: 'Why do some apps have no screenshots on their details page?', link: '/en/faq/no-screenshots' },
               { text: 'What is the Data Update setting for?', link: '/en/faq/data-update-setting' },
-              { text: 'How to Quickly Import Apps from the App Store', link: '/en/faq/quick-import-appstore' },
+              { text: 'How to Quickly Import Apps from the App Store', link: '/en/how-to-add-apps/share-extension' },
             ],
           },
           {
@@ -282,39 +280,6 @@ export default defineConfig({
               { text: 'Direct Addition within AppBox', link: '/en/how-to-add-apps/direct-add' },
               { text: 'Add via Share Extension', link: '/en/how-to-add-apps/share-extension' },
               { text: 'Add via Shortcuts', link: '/en/how-to-add-apps/qr-link-import' },
-              { text: 'Data Import: Data exported from AppBox', link: '/en/how-to-add-apps/data-import' },
-              { text: 'Data Import: Apple data', link: '/en/how-to-add-apps/apple-data' },
-            ],
-          },
-          {
-            text: '🗺️ Product Roadmap',
-            link: '/en/roadmap/',
-            items: [
-              { text: 'Release Notes', link: '/en/roadmap/release-notes' },
-            ],
-          },
-          {
-            text: '⭐ Pro Info',
-            link: '/en/membership/',
-            items: [
-              { text: 'Pro Feature Overview', link: '/en/membership/feature-overview' },
-              { text: 'Purchase Instructions', link: '/en/membership/purchase' },
-            ],
-          },
-          {
-            text: '🔄 Data Sync',
-            link: '/en/sync/',
-            items: [
-              { text: 'Cloud Sync Overview', link: '/en/sync/overview' },
-              { text: 'Troubleshooting: Cloud Sync Unavailable', link: '/en/sync/troubleshooting' },
-            ],
-          },
-          {
-            text: '💾 Backup & Restore',
-            link: '/en/backup-restore/',
-            items: [
-              { text: 'Data Backup (Data Export)', link: '/en/backup-restore/export' },
-              { text: 'Data Recovery (Data Import)', link: '/en/backup-restore/import' },
             ],
           },
           {
@@ -353,10 +318,42 @@ export default defineConfig({
             ],
           },
           {
+            text: '⭐ Pro Info',
+            link: '/en/membership/',
+            items: [
+              { text: 'Pro Feature Overview', link: '/en/membership/feature-overview' },
+              { text: 'Purchase Instructions', link: '/en/membership/purchase' },
+            ],
+          },
+          {
+            text: '☁️ Data Sync',
+            link: '/en/sync/',
+            items: [
+              { text: 'Cloud Sync Overview', link: '/en/sync/overview' },
+              { text: 'Sync Unavailable?', link: '/en/sync/troubleshooting' },
+            ],
+          },
+          {
+            text: '💾 Data Import & Export',
+            link: '/en/backup-restore/',
+            items: [
+              { text: 'Data Backup (Data Export)', link: '/en/backup-restore/export' },
+              { text: 'Data Import: Data exported from AppBox', link: '/en/backup-restore/data-import' },
+              { text: 'Data Import: Apple data', link: '/en/backup-restore/apple-data' },
+            ],
+          },
+          {
             text: '⚙️ Settings',
             link: '/en/settings/',
             items: [
               { text: 'Theme Settings (Color and Appearance)', link: '/en/settings/theme' },
+            ],
+          },
+          {
+            text: '📄 More',
+            items: [
+              { text: 'Privacy Policy', link: '/en/privacy-policy' },
+              { text: 'Release Notes', link: '/en/roadmap/release-notes' },
             ],
           },
         ],
@@ -369,28 +366,28 @@ export default defineConfig({
       description: 'AppBox ヘルプドキュメント - 日本語',
       themeConfig: {
         nav: [
-          { text: '🏠 ホーム', link: '/ja/' },
-          { text: '❓ よくある質問', link: '/ja/faq/' },
-          { text: '🔧 基本機能', link: '/ja/basic-features/' },
-          { text: '⚙️ 設定', link: '/ja/settings/' },
+          { text: 'ホーム', link: '/ja/' },
+          { text: 'よくある質問', link: '/ja/faq/' },
+          { text: '基本機能', link: '/ja/basic-features/' },
+          { text: '設定', link: '/ja/settings/' },
         ],
         sidebar: [
           {
-            text: '💬 フィードバック',
-            link: '/ja/feedback/',
+            text: '📖 はじめに',
             items: [
-              { text: '開発者に連絡する', link: '/ja/feedback/contact-developer' },
+              { text: 'ホーム', link: '/ja/' },
+              { text: 'フィードバック', link: '/ja/feedback/contact-developer' },
             ],
           },
           {
             text: '❓ よくある質問',
             link: '/ja/faq/',
             items: [
-              { text: '旧バージョンのデータ消失からの復元/復旧', link: '/ja/faq/data-recovery' },
+              { text: 'データ消失からの復元/復旧', link: '/ja/faq/data-recovery' },
               { text: 'アプリ地域とリンク認識', link: '/ja/region/' },
               { text: '一部のアプリの詳細ページにスクリーンショットがない', link: '/ja/faq/no-screenshots' },
               { text: 'データ更新設定は何をするものですか？', link: '/ja/faq/data-update-setting' },
-              { text: 'App Store からアプリをすばやくインポートする方法', link: '/ja/faq/quick-import-appstore' },
+              { text: 'App Store からアプリをすばやくインポートする方法', link: '/ja/how-to-add-apps/share-extension' },
             ],
           },
           {
@@ -400,39 +397,6 @@ export default defineConfig({
               { text: 'AppBox 内で直接追加', link: '/ja/how-to-add-apps/direct-add' },
               { text: '共有拡張機能でアプリを追加', link: '/ja/how-to-add-apps/share-extension' },
               { text: 'QRコードまたはリンクからインポート', link: '/ja/how-to-add-apps/qr-link-import' },
-              { text: 'データインポート：AppBox からエクスポートしたデータ', link: '/ja/how-to-add-apps/data-import' },
-              { text: 'データインポート：Apple data', link: '/ja/how-to-add-apps/apple-data' },
-            ],
-          },
-          {
-            text: '🗺️ 製品ロードマップ',
-            link: '/ja/roadmap/',
-            items: [
-              { text: 'バージョンログ', link: '/ja/roadmap/release-notes' },
-            ],
-          },
-          {
-            text: '⭐ メンバーシップ',
-            link: '/ja/membership/',
-            items: [
-              { text: 'メンバーシップ機能の説明', link: '/ja/membership/feature-overview' },
-              { text: '購入に関する説明', link: '/ja/membership/purchase' },
-            ],
-          },
-          {
-            text: '🔄 データ同期',
-            link: '/ja/sync/',
-            items: [
-              { text: '同期機能の説明', link: '/ja/sync/overview' },
-              { text: '同期が利用できない問題', link: '/ja/sync/troubleshooting' },
-            ],
-          },
-          {
-            text: '💾 データバックアップと復元',
-            link: '/ja/backup-restore/',
-            items: [
-              { text: 'データバックアップ（データエクスポート）', link: '/ja/backup-restore/export' },
-              { text: 'データ復元（データインポート）', link: '/ja/backup-restore/import' },
             ],
           },
           {
@@ -471,11 +435,43 @@ export default defineConfig({
             ],
           },
           {
+            text: '⭐ メンバーシップ',
+            link: '/ja/membership/',
+            items: [
+              { text: 'メンバーシップ機能の説明', link: '/ja/membership/feature-overview' },
+              { text: '購入に関する説明', link: '/ja/membership/purchase' },
+            ],
+          },
+          {
+            text: '☁️ データ同期',
+            link: '/ja/sync/',
+            items: [
+              { text: '同期機能の説明', link: '/ja/sync/overview' },
+              { text: '同期が利用できない？', link: '/ja/sync/troubleshooting' },
+            ],
+          },
+          {
+            text: '💾 データインポートとエクスポート',
+            link: '/ja/backup-restore/',
+            items: [
+              { text: 'データバックアップ（データエクスポート）', link: '/ja/backup-restore/export' },
+              { text: 'データインポート：AppBox からエクスポートしたデータ', link: '/ja/backup-restore/data-import' },
+              { text: 'データインポート：Apple data', link: '/ja/backup-restore/apple-data' },
+            ],
+          },
+          {
             text: '⚙️ 設定',
             link: '/ja/settings/',
             items: [
               { text: 'データ更新', link: '/ja/settings/data-update' },
               { text: 'テーマ設定（色とモード）', link: '/ja/settings/theme' },
+            ],
+          },
+          {
+            text: '📄 その他',
+            items: [
+              { text: 'プライバシーポリシー', link: '/ja/privacy-policy' },
+              { text: 'バージョンログ', link: '/ja/roadmap/release-notes' },
             ],
           },
         ],
@@ -488,28 +484,28 @@ export default defineConfig({
       description: 'AppBox 도움말 문서 - 한국어',
       themeConfig: {
         nav: [
-          { text: '🏠 홈', link: '/ko/' },
-          { text: '❓ 자주 묻는 질문', link: '/ko/faq/' },
-          { text: '🔧 기본 기능', link: '/ko/basic-features/' },
-          { text: '⚙️ 설정', link: '/ko/settings/' },
+          { text: '홈', link: '/ko/' },
+          { text: '자주 묻는 질문', link: '/ko/faq/' },
+          { text: '기본 기능', link: '/ko/basic-features/' },
+          { text: '설정', link: '/ko/settings/' },
         ],
         sidebar: [
           {
-            text: '💬 피드백',
-            link: '/ko/feedback/',
+            text: '📖 시작하기',
             items: [
-              { text: '개발자에게 문의하기', link: '/ko/feedback/contact-developer' },
+              { text: '홈', link: '/ko/' },
+              { text: '피드백', link: '/ko/feedback/contact-developer' },
             ],
           },
           {
             text: '❓ 자주 묻는 질문',
             link: '/ko/faq/',
             items: [
-              { text: '이전 버전 데이터 손실 복구/찾기', link: '/ko/faq/data-recovery' },
+              { text: '데이터 손실 복구/찾기', link: '/ko/faq/data-recovery' },
               { text: '앱 지역 및 링크 인식', link: '/ko/region/' },
               { text: '일부 앱의 상세 페이지에 스크린샷이 없습니다', link: '/ko/faq/no-screenshots' },
               { text: '데이터 업데이트 설정은 무엇을 위한 것인가요?', link: '/ko/faq/data-update-setting' },
-              { text: 'App Store에서 앱을 빠르게 가져오는 방법', link: '/ko/faq/quick-import-appstore' },
+              { text: 'App Store에서 앱을 빠르게 가져오는 방법', link: '/ko/how-to-add-apps/share-extension' },
             ],
           },
           {
@@ -519,39 +515,6 @@ export default defineConfig({
               { text: 'AppBox 내에서 직접 추가', link: '/ko/how-to-add-apps/direct-add' },
               { text: '공유 확장 기능으로 앱 추가', link: '/ko/how-to-add-apps/share-extension' },
               { text: 'QR코드 또는 링크에서 가져오기', link: '/ko/how-to-add-apps/qr-link-import' },
-              { text: '데이터 가져오기: AppBox에서 내보낸 데이터', link: '/ko/how-to-add-apps/data-import' },
-              { text: '데이터 가져오기: Apple data', link: '/ko/how-to-add-apps/apple-data' },
-            ],
-          },
-          {
-            text: '🗺️ 제품 로드맵',
-            link: '/ko/roadmap/',
-            items: [
-              { text: '버전 로그', link: '/ko/roadmap/release-notes' },
-            ],
-          },
-          {
-            text: '⭐ 멤버십',
-            link: '/ko/membership/',
-            items: [
-              { text: '멤버십 기능 설명', link: '/ko/membership/feature-overview' },
-              { text: '구매 관련 설명', link: '/ko/membership/purchase' },
-            ],
-          },
-          {
-            text: '🔄 데이터 동기화',
-            link: '/ko/sync/',
-            items: [
-              { text: '동기화 기능 설명', link: '/ko/sync/overview' },
-              { text: '동기화 사용 불가 문제', link: '/ko/sync/troubleshooting' },
-            ],
-          },
-          {
-            text: '💾 데이터 백업 및 복원',
-            link: '/ko/backup-restore/',
-            items: [
-              { text: '데이터 백업 (데이터 내보내기)', link: '/ko/backup-restore/export' },
-              { text: '데이터 복원 (데이터 가져오기)', link: '/ko/backup-restore/import' },
             ],
           },
           {
@@ -590,11 +553,43 @@ export default defineConfig({
             ],
           },
           {
+            text: '⭐ 멤버십',
+            link: '/ko/membership/',
+            items: [
+              { text: '멤버십 기능 설명', link: '/ko/membership/feature-overview' },
+              { text: '구매 관련 설명', link: '/ko/membership/purchase' },
+            ],
+          },
+          {
+            text: '☁️ 데이터 동기화',
+            link: '/ko/sync/',
+            items: [
+              { text: '동기화 기능 설명', link: '/ko/sync/overview' },
+              { text: '동기화를 사용할 수 없나요?', link: '/ko/sync/troubleshooting' },
+            ],
+          },
+          {
+            text: '💾 데이터 가져오기 및 내보내기',
+            link: '/ko/backup-restore/',
+            items: [
+              { text: '데이터 백업 (데이터 내보내기)', link: '/ko/backup-restore/export' },
+              { text: '데이터 가져오기: AppBox에서 내보낸 데이터', link: '/ko/backup-restore/data-import' },
+              { text: '데이터 가져오기: Apple data', link: '/ko/backup-restore/apple-data' },
+            ],
+          },
+          {
             text: '⚙️ 설정',
             link: '/ko/settings/',
             items: [
               { text: '데이터 업데이트', link: '/ko/settings/data-update' },
               { text: '테마 설정 (색상 및 모드)', link: '/ko/settings/theme' },
+            ],
+          },
+          {
+            text: '📄 더보기',
+            items: [
+              { text: '개인정보 처리방침', link: '/ko/privacy-policy' },
+              { text: '버전 로그', link: '/ko/roadmap/release-notes' },
             ],
           },
         ],
@@ -607,28 +602,28 @@ export default defineConfig({
       description: 'AppBox Hilfedokumentation - Deutsch',
       themeConfig: {
         nav: [
-          { text: '🏠 Startseite', link: '/de/' },
-          { text: '❓ FAQ', link: '/de/faq/' },
-          { text: '🔧 Grundfunktionen', link: '/de/basic-features/' },
-          { text: '⚙️ Einstellungen', link: '/de/settings/' },
+          { text: 'Startseite', link: '/de/' },
+          { text: 'FAQ', link: '/de/faq/' },
+          { text: 'Grundfunktionen', link: '/de/basic-features/' },
+          { text: 'Einstellungen', link: '/de/settings/' },
         ],
         sidebar: [
           {
-            text: '💬 Feedback',
-            link: '/de/feedback/',
+            text: '📖 Erste Schritte',
             items: [
-              { text: 'Entwickler kontaktieren', link: '/de/feedback/contact-developer' },
+              { text: 'Startseite', link: '/de/' },
+              { text: 'Feedback', link: '/de/feedback/contact-developer' },
             ],
           },
           {
             text: '❓ FAQ',
             link: '/de/faq/',
             items: [
-              { text: 'Datenwiederherstellung bei Verlust älterer Versionen', link: '/de/faq/data-recovery' },
+              { text: 'Datenwiederherstellung bei Verlust', link: '/de/faq/data-recovery' },
               { text: 'App-Regionen & Link-Erkennung', link: '/de/region/' },
               { text: 'Einige Apps haben keine Screenshots auf der Detailseite', link: '/de/faq/no-screenshots' },
               { text: 'Wofür ist die Datenaktualisierungseinstellung?', link: '/de/faq/data-update-setting' },
-              { text: 'Wie importiere ich Apps schnell aus dem App Store?', link: '/de/faq/quick-import-appstore' },
+              { text: 'Wie importiere ich Apps schnell aus dem App Store?', link: '/de/how-to-add-apps/share-extension' },
             ],
           },
           {
@@ -638,39 +633,6 @@ export default defineConfig({
               { text: 'Direkt in AppBox hinzufügen', link: '/de/how-to-add-apps/direct-add' },
               { text: 'Über die Share Extension hinzufügen', link: '/de/how-to-add-apps/share-extension' },
               { text: 'QR-Code oder Link zum Importieren', link: '/de/how-to-add-apps/qr-link-import' },
-              { text: 'Datenimport: Aus AppBox exportierte Daten', link: '/de/how-to-add-apps/data-import' },
-              { text: 'Datenimport: Apple-Daten', link: '/de/how-to-add-apps/apple-data' },
-            ],
-          },
-          {
-            text: '🗺️ Produkt-Roadmap',
-            link: '/de/roadmap/',
-            items: [
-              { text: 'Versionsprotokoll', link: '/de/roadmap/release-notes' },
-            ],
-          },
-          {
-            text: '⭐ Mitgliedschaft',
-            link: '/de/membership/',
-            items: [
-              { text: 'Mitgliedschaftsfunktionen', link: '/de/membership/feature-overview' },
-              { text: 'Kaufinformationen', link: '/de/membership/purchase' },
-            ],
-          },
-          {
-            text: '🔄 Datensynchronisation',
-            link: '/de/sync/',
-            items: [
-              { text: 'Sync-Funktionsbeschreibung', link: '/de/sync/overview' },
-              { text: 'Problem: Synchronisation nicht verfügbar', link: '/de/sync/troubleshooting' },
-            ],
-          },
-          {
-            text: '💾 Datensicherung und -wiederherstellung',
-            link: '/de/backup-restore/',
-            items: [
-              { text: 'Datensicherung (Datenexport)', link: '/de/backup-restore/export' },
-              { text: 'Datenwiederherstellung (Datenimport)', link: '/de/backup-restore/import' },
             ],
           },
           {
@@ -709,11 +671,43 @@ export default defineConfig({
             ],
           },
           {
+            text: '⭐ Mitgliedschaft',
+            link: '/de/membership/',
+            items: [
+              { text: 'Mitgliedschaftsfunktionen', link: '/de/membership/feature-overview' },
+              { text: 'Kaufinformationen', link: '/de/membership/purchase' },
+            ],
+          },
+          {
+            text: '☁️ Datensynchronisation',
+            link: '/de/sync/',
+            items: [
+              { text: 'Sync-Funktionsbeschreibung', link: '/de/sync/overview' },
+              { text: 'Synchronisation nicht verfügbar?', link: '/de/sync/troubleshooting' },
+            ],
+          },
+          {
+            text: '💾 Datenimport und -export',
+            link: '/de/backup-restore/',
+            items: [
+              { text: 'Datensicherung (Datenexport)', link: '/de/backup-restore/export' },
+              { text: 'Datenimport: Aus AppBox exportierte Daten', link: '/de/backup-restore/data-import' },
+              { text: 'Datenimport: Apple-Daten', link: '/de/backup-restore/apple-data' },
+            ],
+          },
+          {
             text: '⚙️ Einstellungen',
             link: '/de/settings/',
             items: [
               { text: 'Datenaktualisierung', link: '/de/settings/data-update' },
               { text: 'Theme-Einstellungen (Farbe und Modus)', link: '/de/settings/theme' },
+            ],
+          },
+          {
+            text: '📄 Mehr',
+            items: [
+              { text: 'Datenschutzerklärung', link: '/de/privacy-policy' },
+              { text: 'Versionsprotokoll', link: '/de/roadmap/release-notes' },
             ],
           },
         ],
@@ -726,28 +720,28 @@ export default defineConfig({
       description: "Documentation d'aide AppBox - Français",
       themeConfig: {
         nav: [
-          { text: '🏠 Accueil', link: '/fr/' },
-          { text: '❓ FAQ', link: '/fr/faq/' },
-          { text: '🔧 Fonctionnalités', link: '/fr/basic-features/' },
-          { text: '⚙️ Réglages', link: '/fr/settings/' },
+          { text: 'Accueil', link: '/fr/' },
+          { text: 'FAQ', link: '/fr/faq/' },
+          { text: 'Fonctionnalités', link: '/fr/basic-features/' },
+          { text: 'Réglages', link: '/fr/settings/' },
         ],
         sidebar: [
           {
-            text: '💬 Commentaires',
-            link: '/fr/feedback/',
+            text: '📖 Pour commencer',
             items: [
-              { text: 'Contacter le développeur', link: '/fr/feedback/contact-developer' },
+              { text: 'Accueil', link: '/fr/' },
+              { text: 'Commentaires', link: '/fr/feedback/contact-developer' },
             ],
           },
           {
             text: '❓ FAQ',
             link: '/fr/faq/',
             items: [
-              { text: 'Récupération des données perdues des anciennes versions', link: '/fr/faq/data-recovery' },
+              { text: 'Récupération des données perdues', link: '/fr/faq/data-recovery' },
               { text: 'Régions d\'app & reconnaissance de liens', link: '/fr/region/' },
               { text: 'Certaines applications n\'ont pas de capture d\'écran sur la page de détails', link: '/fr/faq/no-screenshots' },
               { text: 'À quoi sert le paramètre de mise à jour des données ?', link: '/fr/faq/data-update-setting' },
-              { text: 'Comment importer rapidement des applications depuis l\'App Store ?', link: '/fr/faq/quick-import-appstore' },
+              { text: 'Comment importer rapidement des applications depuis l\'App Store ?', link: '/fr/how-to-add-apps/share-extension' },
             ],
           },
           {
@@ -757,39 +751,6 @@ export default defineConfig({
               { text: 'Ajout direct dans AppBox', link: '/fr/how-to-add-apps/direct-add' },
               { text: 'Ajout via l\'extension de partage', link: '/fr/how-to-add-apps/share-extension' },
               { text: 'Importer via QR code ou lien', link: '/fr/how-to-add-apps/qr-link-import' },
-              { text: 'Importation de données : données exportées depuis AppBox', link: '/fr/how-to-add-apps/data-import' },
-              { text: 'Importation de données : Apple data', link: '/fr/how-to-add-apps/apple-data' },
-            ],
-          },
-          {
-            text: '🗺️ Feuille de route',
-            link: '/fr/roadmap/',
-            items: [
-              { text: 'Journal des versions', link: '/fr/roadmap/release-notes' },
-            ],
-          },
-          {
-            text: '⭐ Abonnement',
-            link: '/fr/membership/',
-            items: [
-              { text: 'Fonctionnalités d\'abonnement', link: '/fr/membership/feature-overview' },
-              { text: 'Informations d\'achat', link: '/fr/membership/purchase' },
-            ],
-          },
-          {
-            text: '🔄 Synchronisation',
-            link: '/fr/sync/',
-            items: [
-              { text: 'Description de la synchronisation', link: '/fr/sync/overview' },
-              { text: 'Problème de synchronisation indisponible', link: '/fr/sync/troubleshooting' },
-            ],
-          },
-          {
-            text: '💾 Sauvegarde et restauration',
-            link: '/fr/backup-restore/',
-            items: [
-              { text: 'Sauvegarde (exportation de données)', link: '/fr/backup-restore/export' },
-              { text: 'Restauration (importation de données)', link: '/fr/backup-restore/import' },
             ],
           },
           {
@@ -828,11 +789,43 @@ export default defineConfig({
             ],
           },
           {
+            text: '⭐ Abonnement',
+            link: '/fr/membership/',
+            items: [
+              { text: 'Fonctionnalités d\'abonnement', link: '/fr/membership/feature-overview' },
+              { text: 'Informations d\'achat', link: '/fr/membership/purchase' },
+            ],
+          },
+          {
+            text: '☁️ Synchronisation',
+            link: '/fr/sync/',
+            items: [
+              { text: 'Description de la synchronisation', link: '/fr/sync/overview' },
+              { text: 'Synchronisation indisponible ?', link: '/fr/sync/troubleshooting' },
+            ],
+          },
+          {
+            text: '💾 Import et export de données',
+            link: '/fr/backup-restore/',
+            items: [
+              { text: 'Sauvegarde (exportation de données)', link: '/fr/backup-restore/export' },
+              { text: 'Importation de données : données exportées depuis AppBox', link: '/fr/backup-restore/data-import' },
+              { text: 'Importation de données : Apple data', link: '/fr/backup-restore/apple-data' },
+            ],
+          },
+          {
             text: '⚙️ Réglages',
             link: '/fr/settings/',
             items: [
               { text: 'Mise à jour des données', link: '/fr/settings/data-update' },
               { text: 'Réglages du thème (couleur et mode)', link: '/fr/settings/theme' },
+            ],
+          },
+          {
+            text: '📄 Plus',
+            items: [
+              { text: 'Politique de confidentialité', link: '/fr/privacy-policy' },
+              { text: 'Journal des versions', link: '/fr/roadmap/release-notes' },
             ],
           },
         ],
@@ -845,28 +838,28 @@ export default defineConfig({
       description: 'Справочная документация AppBox - Русский',
       themeConfig: {
         nav: [
-          { text: '🏠 Главная', link: '/ru/' },
-          { text: '❓ Часто задаваемые вопросы', link: '/ru/faq/' },
-          { text: '🔧 Основные функции', link: '/ru/basic-features/' },
-          { text: '⚙️ Настройки', link: '/ru/settings/' },
+          { text: 'Главная', link: '/ru/' },
+          { text: 'Часто задаваемые вопросы', link: '/ru/faq/' },
+          { text: 'Основные функции', link: '/ru/basic-features/' },
+          { text: 'Настройки', link: '/ru/settings/' },
         ],
         sidebar: [
           {
-            text: '💬 Обратная связь',
-            link: '/ru/feedback/',
+            text: '📖 Начало',
             items: [
-              { text: 'Связаться с разработчиком', link: '/ru/feedback/contact-developer' },
+              { text: 'Главная', link: '/ru/' },
+              { text: 'Обратная связь', link: '/ru/feedback/contact-developer' },
             ],
           },
           {
             text: '❓ Часто задаваемые вопросы',
             link: '/ru/faq/',
             items: [
-              { text: 'Восстановление потерянных данных старых версий', link: '/ru/faq/data-recovery' },
+              { text: 'Восстановление потерянных данных', link: '/ru/faq/data-recovery' },
               { text: 'Регионы приложений и распознавание ссылок', link: '/ru/region/' },
               { text: 'У некоторых приложений нет скриншотов на странице сведений', link: '/ru/faq/no-screenshots' },
               { text: 'Для чего нужна настройка обновления данных?', link: '/ru/faq/data-update-setting' },
-              { text: 'Как быстро импортировать приложения из App Store?', link: '/ru/faq/quick-import-appstore' },
+              { text: 'Как быстро импортировать приложения из App Store?', link: '/ru/how-to-add-apps/share-extension' },
             ],
           },
           {
@@ -876,39 +869,6 @@ export default defineConfig({
               { text: 'Прямое добавление в AppBox', link: '/ru/how-to-add-apps/direct-add' },
               { text: 'Добавление через расширение «Поделиться»', link: '/ru/how-to-add-apps/share-extension' },
               { text: 'Импорт по QR-коду или ссылке', link: '/ru/how-to-add-apps/qr-link-import' },
-              { text: 'Импорт данных: данные, экспортированные из AppBox', link: '/ru/how-to-add-apps/data-import' },
-              { text: 'Импорт данных: Apple data', link: '/ru/how-to-add-apps/apple-data' },
-            ],
-          },
-          {
-            text: '🗺️ Дорожная карта',
-            link: '/ru/roadmap/',
-            items: [
-              { text: 'Журнал версий', link: '/ru/roadmap/release-notes' },
-            ],
-          },
-          {
-            text: '⭐ Подписка',
-            link: '/ru/membership/',
-            items: [
-              { text: 'Описание функций подписки', link: '/ru/membership/feature-overview' },
-              { text: 'Информация о покупке', link: '/ru/membership/purchase' },
-            ],
-          },
-          {
-            text: '🔄 Синхронизация данных',
-            link: '/ru/sync/',
-            items: [
-              { text: 'Описание синхронизации', link: '/ru/sync/overview' },
-              { text: 'Проблема: синхронизация недоступна', link: '/ru/sync/troubleshooting' },
-            ],
-          },
-          {
-            text: '💾 Резервное копирование и восстановление',
-            link: '/ru/backup-restore/',
-            items: [
-              { text: 'Резервное копирование (экспорт данных)', link: '/ru/backup-restore/export' },
-              { text: 'Восстановление (импорт данных)', link: '/ru/backup-restore/import' },
             ],
           },
           {
@@ -947,11 +907,43 @@ export default defineConfig({
             ],
           },
           {
+            text: '⭐ Подписка',
+            link: '/ru/membership/',
+            items: [
+              { text: 'Описание функций подписки', link: '/ru/membership/feature-overview' },
+              { text: 'Информация о покупке', link: '/ru/membership/purchase' },
+            ],
+          },
+          {
+            text: '☁️ Синхронизация данных',
+            link: '/ru/sync/',
+            items: [
+              { text: 'Описание синхронизации', link: '/ru/sync/overview' },
+              { text: 'Синхронизация недоступна?', link: '/ru/sync/troubleshooting' },
+            ],
+          },
+          {
+            text: '💾 Импорт и экспорт данных',
+            link: '/ru/backup-restore/',
+            items: [
+              { text: 'Резервное копирование (экспорт данных)', link: '/ru/backup-restore/export' },
+              { text: 'Импорт данных: данные, экспортированные из AppBox', link: '/ru/backup-restore/data-import' },
+              { text: 'Импорт данных: Apple data', link: '/ru/backup-restore/apple-data' },
+            ],
+          },
+          {
             text: '⚙️ Настройки',
             link: '/ru/settings/',
             items: [
               { text: 'Обновление данных', link: '/ru/settings/data-update' },
               { text: 'Настройки темы (цвет и режим)', link: '/ru/settings/theme' },
+            ],
+          },
+          {
+            text: '📄 Ещё',
+            items: [
+              { text: 'Политика конфиденциальности', link: '/ru/privacy-policy' },
+              { text: 'Журнал версий', link: '/ru/roadmap/release-notes' },
             ],
           },
         ],
@@ -964,28 +956,28 @@ export default defineConfig({
       description: 'AppBox Yardım Dokümanı - Türkçe',
       themeConfig: {
         nav: [
-          { text: '🏠 Ana Sayfa', link: '/tr/' },
-          { text: '❓ SSS', link: '/tr/faq/' },
-          { text: '🔧 Temel Özellikler', link: '/tr/basic-features/' },
-          { text: '⚙️ Ayarlar', link: '/tr/settings/' },
+          { text: 'Ana Sayfa', link: '/tr/' },
+          { text: 'SSS', link: '/tr/faq/' },
+          { text: 'Temel Özellikler', link: '/tr/basic-features/' },
+          { text: 'Ayarlar', link: '/tr/settings/' },
         ],
         sidebar: [
           {
-            text: '💬 Geri Bildirim',
-            link: '/tr/feedback/',
+            text: '📖 Başlangıç',
             items: [
-              { text: 'Geliştiriciyle İletişime Geçin', link: '/tr/feedback/contact-developer' },
+              { text: 'Ana Sayfa', link: '/tr/' },
+              { text: 'Geri Bildirim', link: '/tr/feedback/contact-developer' },
             ],
           },
           {
             text: '❓ SSS',
             link: '/tr/faq/',
             items: [
-              { text: 'Eski sürüm veri kaybı kurtarma/bulma', link: '/tr/faq/data-recovery' },
+              { text: 'Veri kaybı kurtarma/bulma', link: '/tr/faq/data-recovery' },
               { text: 'Uygulama Bölgeleri ve Bağlantı Tanıma', link: '/tr/region/' },
               { text: 'Bazı uygulamaların detay sayfasında ekran görüntüsü yok', link: '/tr/faq/no-screenshots' },
               { text: 'Veri güncelleme ayarı ne işe yarar?', link: '/tr/faq/data-update-setting' },
-              { text: 'App Store\'dan uygulamalar nasıl hızlıca içe aktarılır?', link: '/tr/faq/quick-import-appstore' },
+              { text: 'App Store\'dan uygulamalar nasıl hızlıca içe aktarılır?', link: '/tr/how-to-add-apps/share-extension' },
             ],
           },
           {
@@ -995,39 +987,6 @@ export default defineConfig({
               { text: 'AppBox içinde doğrudan ekleme', link: '/tr/how-to-add-apps/direct-add' },
               { text: 'Paylaşım eklentisi ile uygulama ekleme', link: '/tr/how-to-add-apps/share-extension' },
               { text: 'QR kod veya bağlantıdan içe aktarma', link: '/tr/how-to-add-apps/qr-link-import' },
-              { text: 'Veri içe aktarma: AppBox\'tan dışa aktarılan veriler', link: '/tr/how-to-add-apps/data-import' },
-              { text: 'Veri içe aktarma: Apple data', link: '/tr/how-to-add-apps/apple-data' },
-            ],
-          },
-          {
-            text: '🗺️ Ürün Yol Haritası',
-            link: '/tr/roadmap/',
-            items: [
-              { text: 'Sürüm günlüğü', link: '/tr/roadmap/release-notes' },
-            ],
-          },
-          {
-            text: '⭐ Üyelik',
-            link: '/tr/membership/',
-            items: [
-              { text: 'Üyelik özellik açıklaması', link: '/tr/membership/feature-overview' },
-              { text: 'Satın alma ile ilgili açıklama', link: '/tr/membership/purchase' },
-            ],
-          },
-          {
-            text: '🔄 Veri Senkronizasyonu',
-            link: '/tr/sync/',
-            items: [
-              { text: 'Senkronizasyon özellik açıklaması', link: '/tr/sync/overview' },
-              { text: 'Senkronizasyon kullanılamıyor sorunu', link: '/tr/sync/troubleshooting' },
-            ],
-          },
-          {
-            text: '💾 Veri Yedekleme ve Geri Yükleme',
-            link: '/tr/backup-restore/',
-            items: [
-              { text: 'Veri yedekleme (veri dışa aktarma)', link: '/tr/backup-restore/export' },
-              { text: 'Veri geri yükleme (veri içe aktarma)', link: '/tr/backup-restore/import' },
             ],
           },
           {
@@ -1066,11 +1025,43 @@ export default defineConfig({
             ],
           },
           {
+            text: '⭐ Üyelik',
+            link: '/tr/membership/',
+            items: [
+              { text: 'Üyelik özellik açıklaması', link: '/tr/membership/feature-overview' },
+              { text: 'Satın alma ile ilgili açıklama', link: '/tr/membership/purchase' },
+            ],
+          },
+          {
+            text: '☁️ Veri Senkronizasyonu',
+            link: '/tr/sync/',
+            items: [
+              { text: 'Senkronizasyon özellik açıklaması', link: '/tr/sync/overview' },
+              { text: 'Senkronizasyon kullanılamıyor mu?', link: '/tr/sync/troubleshooting' },
+            ],
+          },
+          {
+            text: '💾 Veri İçe ve Dışa Aktarma',
+            link: '/tr/backup-restore/',
+            items: [
+              { text: 'Veri yedekleme (veri dışa aktarma)', link: '/tr/backup-restore/export' },
+              { text: 'Veri içe aktarma: AppBox\'tan dışa aktarılan veriler', link: '/tr/backup-restore/data-import' },
+              { text: 'Veri içe aktarma: Apple data', link: '/tr/backup-restore/apple-data' },
+            ],
+          },
+          {
             text: '⚙️ Ayarlar',
             link: '/tr/settings/',
             items: [
               { text: 'Veri güncelleme', link: '/tr/settings/data-update' },
               { text: 'Tema ayarları (renk ve mod)', link: '/tr/settings/theme' },
+            ],
+          },
+          {
+            text: '📄 Daha Fazla',
+            items: [
+              { text: 'Gizlilik Politikası', link: '/tr/privacy-policy' },
+              { text: 'Sürüm günlüğü', link: '/tr/roadmap/release-notes' },
             ],
           },
         ],

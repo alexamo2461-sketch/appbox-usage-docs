@@ -1,5 +1,6 @@
-# ℹ️ 建议与反馈
+# 📖 开始
 
-> **‼️‼️** **遇到任何问题请联系开发者**
+> 欢迎使用 AppBox！从这里开始了解 AppBox 的基本使用方法。
 
-- [如何联系开发者](/feedback/contact-developer)
+- [首页](/)
+- [建议与反馈](/feedback/contact-developer)

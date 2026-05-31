@@ -1,5 +1,4 @@
-# ℹ️ Suggestions & Commentaires
+# 📖 Pour commencer
 
-> **‼️‼️** **En cas de problème, veuillez contacter le développeur**
-
-- [Contacter le développeur](/fr/feedback/contact-developer)
+- [Accueil](/fr/)
+- [Commentaires](/fr/feedback/contact-developer)
