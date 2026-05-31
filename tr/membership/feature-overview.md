@@ -1,0 +1,1 @@
+# Üyelik özellik açıklaması

@@ -1,94 +1,53 @@
----
-layout: home
+# 📖 AppBox User Guide
 
-hero:
-  name: AppBox
-  text: A Box for Your Apps
-  tagline: A utility for collecting and managing applications
-  actions:
-    - theme: brand
-      text: Get Started
-      link: /en/how-to-add-apps
-    - theme: alt
-      text: FAQ
-      link: /en/faq
+As the name suggests, **AppBox** is a "box for your apps"—a utility designed for collecting and managing applications. It allows you to organize your favorite apps by creating **App Collections**, complete with features such as collection descriptions, app-specific notes, and customizable attribute tracking.
 
-features:
-  - title: App Collection Management
-    details: Organize your favorite apps by creating App Collections, complete with collection descriptions, app-specific notes, and customizable attribute tracking.
-  - title: Multiple Ways to Add Apps
-    details: Supports direct addition within AppBox, via Share Extension, from QR codes or links, and more.
-  - title: Data Sync
-    details: Cloud sync keeps your data consistent across multiple devices.
----
+## 💬 Feedback
 
-# ℹ️ Suggestions & Feedback
+- [Contact Developer](/en/feedback/contact-developer)
 
-> **‼️‼️** **Contact us if you encounter any issues**
+## ❓ FAQ
 
-[Contact Developer](https://www.yuque.com/u291034/fz7nr2/qvgywlh131epk91w)
+- [Data Recovery: Restoring Lost Data from Older Versions](/en/faq/data-recovery)
+- [App Regions & Link Recognition](/en/region/en)
+- [Why do some apps have no screenshots on their details page?](/en/faq/no-screenshots)
+- [What is the Data Update setting for?](/en/faq/data-update-setting)
+- [Can you add an App Tagging feature?](/en/faq/app-tagging)
+- [How to Quickly Import Apps from the App Store](/en/faq/quick-import-appstore)
 
-# ❓ FAQ
+## 📥 How to Add Apps
 
-- [Data Recovery: Restoring Lost Data from Older Versions](https://www.yuque.com/u291034/fz7nr2/irguob05wmp7zccd)
-- [App Link Recognition Rules & Regional Settings Usage](/region/en)
-- [Why do some apps have no screenshots on their details page?](https://www.yuque.com/u291034/fz7nr2/zk15v6g84rlqd9dd)
-- [What is the Data Update setting for?](https://www.yuque.com/u291034/fz7nr2/ce5qy7xtw57v4kpt)
-- [Can you add an App Tagging 🏷 feature?](https://www.yuque.com/u291034/fz7nr2/ehcl6fe2v45kbgux)
-- [How to Quickly Import Apps from the App Store](https://www.yuque.com/u291034/fz7nr2/bqxkwu2bh1f0zscm)
+- [Direct Addition within AppBox](/en/how-to-add-apps/direct-add)
+- [Add via Share Extension](/en/how-to-add-apps/share-extension)
+- [Add via Shortcuts](/en/how-to-add-apps/qr-link-import)
+- [Data Import: Data exported from AppBox](/en/how-to-add-apps/data-import)
+- [Data Import: Apple data](/en/how-to-add-apps/apple-data)
 
-# 📥 How to Add Apps
+## 🗺️ Product Roadmap
 
-AppBox currently offers several methods for adding applications:
+- [Release Notes](/en/roadmap/release-notes)
 
-1. [Direct Addition within AppBox](https://www.yuque.com/u291034/fz7nr2/pc7qnqq74rtux4z3) — Supports searching by app name, link recognition, manual entry, and batch importing
-2. [Add via Share Extension](https://www.yuque.com/u291034/fz7nr2/qy990b9nnau6glmi) — Quickly import apps from the system share sheet
-3. [Add via Shortcuts](https://www.yuque.com/u291034/fz7nr2/bqxkwu2bh1f0zscm) — Use iOS Shortcuts for automated entry
-4. [Data Import: Data exported from AppBox](https://www.yuque.com/u291034/fz7nr2/ki853stqci5ghlxs)
-5. Data Import: Apple data
+## ⭐ Pro Info
 
-# 📈 Product Roadmap
+- [Pro Feature Overview](/en/membership/feature-overview)
+- [Purchase Instructions](/en/membership/purchase)
 
-- [Release Notes](https://www.yuque.com/u291034/fz7nr2/rg35b0y3vgmra279)
+## 🔄 Data Sync
 
-# 💎 AppBOX Pro Info
+- [Cloud Sync Overview](/en/sync/overview)
+- [Troubleshooting: Cloud Sync Unavailable](/en/sync/troubleshooting)
 
-- [Pro Feature Overview](https://www.yuque.com/u291034/fz7nr2/rtdhu5a1qgx0hq1o)
-- [Purchase Instructions](https://www.yuque.com/u291034/fz7nr2/nq0np6p80iquzvl4)
+## 💾 Backup & Restore
 
-# ☁️ Data synchronization
+- [Data Backup (Data Export)](/en/backup-restore/export)
+- [Data Recovery (Data Import)](/en/backup-restore/import)
 
-- [Cloud Sync Overview](https://www.yuque.com/u291034/fz7nr2/ah74fawzq9x5309u)
-- [Troubleshooting: Cloud Sync Unavailable](https://www.yuque.com/u291034/fz7nr2/ur9t83skoz3o6qxd)
+## 🔧 Core Features
 
-# 💾 Data Backup and Recovery
+- [Collection Management](/en/collection-management/)
+- [App Management](/en/app-management/)
+- [App Details](/en/app-details/)
 
-- [Data Backup (Data Export)](https://www.yuque.com/u291034/fz7nr2/rqxekyh5g0kxaclk)
-- [Data Recovery (Data Import)](https://www.yuque.com/u291034/fz7nr2/ki853stqci5ghlxs)
+## ⚙️ Settings
 
-# 📒 Core Features
-
-## App Collection Management
-
-- [Adding and Editing App Collections](https://www.yuque.com/u291034/fz7nr2/gvkbpuq9zqeldf7c)
-- [Switching App Collection Views](https://www.yuque.com/u291034/fz7nr2/nxa41phcsg3fh8vp)
-- [App Collection Sorting](https://www.yuque.com/u291034/fz7nr2/vmhv7pblbl44m5gt)
-- [Sharing App Collection](https://www.yuque.com/u291034/fz7nr2/rqgv3dlfc98lfqqh)
-- [Detect Empty Collection](https://www.yuque.com/u291034/fz7nr2/remqgx6t13d6f5an)
-
-## App Management
-
-- [Editing App Descriptions](https://www.yuque.com/u291034/fz7nr2/cqqy41gxeburpz8c)
-- [Switching App Views](https://www.yuque.com/u291034/fz7nr2/fikz3xim2q7i4mzu)
-- [Copying/Moving App](https://www.yuque.com/u291034/fz7nr2/sl00rhhghb2prblo)
-- [Multi-Select Operations](https://www.yuque.com/u291034/fz7nr2/rcs7b191e16ar9ki) (Batch Copy, Move, or Delete)
-
-## App Details
-
-- [App Details Page Overview](https://www.yuque.com/u291034/fz7nr2/std73w3dy6hkdg6s)
-- [Display Order Sorting](https://www.yuque.com/u291034/fz7nr2/xucwuxqk2cm11o9p)
-- [Translation Feature](https://www.yuque.com/u291034/fz7nr2/bxpplsfhzsev3fha)
-
-# ⚙️ Settings
-
-- [Theme Settings (Color and Appearance)](https://www.yuque.com/u291034/fz7nr2/zy8ovscox42fc4ce)
+- [Theme Settings (Color and Appearance)](/en/settings/theme)

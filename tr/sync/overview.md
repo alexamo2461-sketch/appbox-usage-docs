@@ -1,0 +1,1 @@
+# Senkronizasyon özellik açıklaması

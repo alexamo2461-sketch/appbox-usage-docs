@@ -1,0 +1,1 @@
+# Leere Sammlungen erkennen

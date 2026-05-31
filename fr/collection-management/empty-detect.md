@@ -1,0 +1,1 @@
+# Détection des collections vides

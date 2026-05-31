@@ -1,95 +1,54 @@
----
-layout: home
+# 📖 AppBox Benutzerhandbuch
 
-hero:
-  name: AppBox
-  text: Eine Box für deine Apps
-  tagline: Ein Werkzeug zum Sammeln und Verwalten von Apps
-  actions:
-    - theme: brand
-      text: Erste Schritte
-      link: /de/how-to-add-apps
-    - theme: alt
-      text: FAQ
-      link: /de/faq
+AppBox ist, wie der Name schon sagt, eine "Box für deine Apps" – ein Werkzeug zum Sammeln und Verwalten von Anwendungen. Du kannst deine Lieblingsapps organisieren, indem du **Sammlungen** erstellst, mit Sammlungsbeschreibungen, App-Notizen und benutzerdefinierten Attributen.
 
-features:
-  - title: Sammlungsverwaltung
-    details: Erstelle „Sammlungen", um deine Lieblingsapps zu organisieren, mit Sammlungsbeschreibungen, App-Notizen und benutzerdefinierten Attributen.
-  - title: Vielfältige Hinzufügemethoden
-    details: Unterstützt das direkte Hinzufügen in AppBox, über die Share Extension, per QR-Code oder Link-Import und viele weitere Wege.
-  - title: Datensynchronisation
-    details: Die Cloud-Synchronisation hält deine Daten auf mehreren Geräten konsistent.
----
+## 💬 Feedback
 
-# ℹ️ Vorschläge & Feedback
+- [Entwickler kontaktieren](/de/feedback/contact-developer)
 
-> **‼️‼️** **Bei Problemen wende dich bitte an den Entwickler**
+## ❓ FAQ
 
-[Entwickler kontaktieren](https://www.yuque.com/u291034/fz7nr2/utft0m9stqvs2hd6?singleDoc#)
+- [Datenwiederherstellung bei Verlust älterer Versionen](/de/faq/data-recovery)
+- [App-Regionen & Link-Erkennung](/de/region/de)
+- [Einige Apps haben keine Screenshots auf der Detailseite](/de/faq/no-screenshots)
+- [Kann eine App-Tag-Funktion hinzugefügt werden?](/de/faq/app-tagging)
+- [Wofür ist die Datenaktualisierungseinstellung?](/de/faq/data-update-setting)
+- [Wie importiere ich Apps schnell aus dem App Store?](/de/faq/quick-import-appstore)
 
-# ❓ FAQ
+## 📥 Apps zu Favoriten hinzufügen
 
-- [Datenwiederherstellung bei Verlust älterer Versionen](https://www.yuque.com/u291034/fz7nr2/ro42g9y7ez7ezbki)
-- [App-Link-Erkennungsregeln und Verwendung der Regionsfunktion](/region/de)
-- [Einige Apps haben keine Screenshots auf der Detailseite](https://www.yuque.com/u291034/fz7nr2/mvo5sb4gew4zmg1c)
-- [Kann eine App-Tag🏷-Funktion hinzugefügt werden?](https://www.yuque.com/u291034/fz7nr2/nr98nrq7gz36agh0)
-- [Wofür ist die Datenaktualisierungseinstellung?](https://www.yuque.com/u291034/fz7nr2/liv9063d2fl1sd0e)
-- [Wie importiere ich Apps schnell aus dem App Store?](https://www.yuque.com/u291034/fz7nr2/oia7weu7rfqgbp16)
+- [Direkt in AppBox hinzufügen](/de/how-to-add-apps/direct-add)
+- [Über die Share Extension hinzufügen](/de/how-to-add-apps/share-extension)
+- [QR-Code oder Link zum Importieren](/de/how-to-add-apps/qr-link-import)
+- [Datenimport: Aus AppBox exportierte Daten](/de/how-to-add-apps/data-import)
+- [Datenimport: Apple-Daten](/de/how-to-add-apps/apple-data)
 
-# Apps zu Favoriten hinzufügen
+## 🗺️ Produkt-Roadmap
 
-AppBox bietet derzeit 3 Methoden, die jeweils für unterschiedliche Importszenarien geeignet sind:
+- [Versionsprotokoll](/de/roadmap/release-notes)
 
-- [Direkt in AppBox hinzufügen](https://www.yuque.com/u291034/fz7nr2/rtasb6rnnqshtula) (unterstützt Namenssuche, Linkerkennung, benutzerdefinierte Eingabe und Batch-Import)
-- [Über die Share Extension hinzufügen](https://www.yuque.com/u291034/fz7nr2/grvxkrxqxwpzuafi) (schneller Import über das System-Share-Menü)
-- QR-Code oder Link zum Importieren von „fremden Sammlungslisten"
-- [Datenimport: Aus AppBox exportierte Daten](https://www.yuque.com/u291034/fz7nr2/gmco3thciffi8gbe)
-- Datenimport: Apple-Daten
+## ⭐ Mitgliedschaft
 
-# 📈 Produkt-Roadmap
+- [Mitgliedschaftsfunktionen](/de/membership/feature-overview)
+- [Kaufinformationen](/de/membership/purchase)
 
-- [Versionsprotokoll](https://www.yuque.com/u291034/fz7nr2/kownn7yv9bb0gyvp)
+## 🔄 Datensynchronisation
 
-# 💎 Mitgliedschaft
+- [Sync-Funktionsbeschreibung](/de/sync/overview)
+- [Problem: Synchronisation nicht verfügbar](/de/sync/troubleshooting)
 
-- [Mitgliedschaftsfunktionen](https://www.yuque.com/u291034/fz7nr2/grtmo5fqfgk3tmam)
-- [Kaufinformationen](https://www.yuque.com/u291034/fz7nr2/gbzgd1xa40lvqtg6)
+## 💾 Datensicherung und -wiederherstellung
 
-# ☁️ Datensynchronisation
+- [Datensicherung (Datenexport)](/de/backup-restore/export)
+- [Datenwiederherstellung (Datenimport)](/de/backup-restore/import)
 
-- [Sync-Funktionsbeschreibung](https://www.yuque.com/u291034/fz7nr2/ohnzgr9yncwcb4iv)
-- [Problem: Synchronisation nicht verfügbar](https://www.yuque.com/u291034/fz7nr2/wr5i49rzez02cfdo)
+## 🔧 Grundfunktionen
 
-# 💾 Datensicherung und -wiederherstellung
+- [Sammlungsverwaltung](/de/collection-management/)
+- [App-Verwaltung](/de/app-management/)
+- [App-Details](/de/app-details/)
 
-- [Datensicherung (Datenexport)](https://www.yuque.com/u291034/fz7nr2/ihsoi7nqd4fu0fee)
-- [Datenwiederherstellung (Datenimport)](https://www.yuque.com/u291034/fz7nr2/gmco3thciffi8gbe)
+## ⚙️ Einstellungen
 
-# 📒 Grundfunktionen
-
-## Sammlungsverwaltung
-
-- [Sammlung erstellen und bearbeiten](https://www.yuque.com/u291034/fz7nr2/cetno42zk2vomvwy)
-- [Sammlungsansicht wechseln](https://www.yuque.com/u291034/fz7nr2/ucq0g4z9wn4dyqa8)
-- [Sammlungen sortieren](https://www.yuque.com/u291034/fz7nr2/ou0oslk70trsvtra)
-- [Sammlung teilen](https://www.yuque.com/u291034/fz7nr2/tl2d72lnbmtn2h6v)
-- [Leere Sammlungen erkennen](https://www.yuque.com/u291034/fz7nr2/hd5gdckpf5ie3222)
-
-## App-Verwaltung
-
-- [App-Beschreibung bearbeiten](https://www.yuque.com/u291034/fz7nr2/ocvn9lzk1hxhb3ge)
-- [App-Ansicht wechseln](https://www.yuque.com/u291034/fz7nr2/xmgv2kdya85e0xsf)
-- [App kopieren/verschieben](https://www.yuque.com/u291034/fz7nr2/cl67c8dn6pv4w21a)
-- [Mehrfachauswahl](https://www.yuque.com/u291034/fz7nr2/rz614abyukl8qi90) (mehrere Apps kopieren/verschieben/löschen)
-
-## App-Details
-
-- [App-Detailseite](https://www.yuque.com/u291034/fz7nr2/dz7gteiwgpihggub)
-- [Anzeigereihenfolge sortieren](https://www.yuque.com/u291034/fz7nr2/kr5oxx8t7oa1a72d)
-- [Übersetzungsfunktion](https://www.yuque.com/u291034/fz7nr2/lk5lz6fp6s8ab0uq)
-
-# ⚙️ Einstellungen
-
-- [Datenaktualisierung](https://www.yuque.com/u291034/fz7nr2/liv9063d2fl1sd0e)
-- [Theme-Einstellungen (Farbe und Modus)](https://www.yuque.com/u291034/fz7nr2/pq853eg9bto7kces)
+- [Datenaktualisierung](/de/settings/data-update)
+- [Theme-Einstellungen (Farbe und Modus)](/de/settings/theme)
