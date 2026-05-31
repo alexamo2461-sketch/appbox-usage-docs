@@ -18,7 +18,7 @@
 **设置 → 应用 → 应用地区**
 
 <!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779116324525-f71fb9ff-b7b4-4b64-ac5d-9dea9679dbdf.png)
+![](/assets/region/region-settings.png)
 
 这里是 **「地区查询列表」**：已启用的国家或地区，**从上到下**表示优先顺序（排前面的会先用来查；需要多地区尝试时也会参考这一顺序）。
 
@@ -51,11 +51,11 @@
 
 ## 新增应用时指定地区
 <!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779116579932-015d26dd-9859-4c1d-9b01-d6c426369256.png)
+![](/assets/region/add-app-region.png)
 
 ## 应用详情页：查看与修改地区
 <!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779116920932-fc735b67-36dd-451c-bb7f-2669ec7ad928.png)
+![](/assets/region/app-detail-region.png)
 
 ### 查看地区
 在应用详情中打开 **「更多信息」**，其中一行 **「地区」** 展示本条收藏当前对应的店面代码所对应的名称。
@@ -72,7 +72,7 @@
 
 ## 应用集内操作应用地区
 <!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779117261097-c62ee177-b215-4c9a-b81c-f02bfa62c717.png)
+![](/assets/region/collection-region.png)
 
 ### 批量修改地区
 **同一应用集**里已 **多选** 多条商店来源的应用，希望一次性切换到同一地区并尝试更新展示信息。

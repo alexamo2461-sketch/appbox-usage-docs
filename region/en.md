@@ -20,7 +20,7 @@
 **Settings → Apps → App Region**
 
 <!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779116324525-f71fb9ff-b7b4-4b64-ac5d-9dea9679dbdf.png)
+![](/assets/region/region-settings.png)
 
 <font style="color:rgb(31, 31, 31);">This is the </font>**“Region Query List”**<font style="color:rgb(31, 31, 31);">: the enabled countries or regions. The </font>**top-to-bottom order**<font style="color:rgb(31, 31, 31);"> represents priority (higher items are queried first; this order is also referenced when multiple regions are attempted).</font>
 
@@ -53,11 +53,11 @@
 
 ## <font style="color:rgb(31, 31, 31);">Specifying a Region When Adding an App</font>
 <!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779116579932-015d26dd-9859-4c1d-9b01-d6c426369256.png)
+![](/assets/region/add-app-region.png)
 
 ## <font style="color:rgb(31, 31, 31);">Viewing and Modifying Regions in the App Details Page</font>
 <!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779116920932-fc735b67-36dd-451c-bb7f-2669ec7ad928.png)
+![](/assets/region/app-detail-region.png)
 
 ### <font style="color:rgb(31, 31, 31);">Viewing the Region</font>
 <font style="color:rgb(31, 31, 31);">Open </font>**“More Information”**<font style="color:rgb(31, 31, 31);"> in the app details page. One of the rows, </font>**“Region”**<font style="color:rgb(31, 31, 31);">, displays the storefront name corresponding to the current store code for this saved app.</font>
@@ -74,7 +74,7 @@
 
 ## <font style="color:rgb(31, 31, 31);">Managing App Regions Within an App Collection</font>
 <!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779117261097-c62ee177-b215-4c9a-b81c-f02bfa62c717.png)
+![](/assets/region/collection-region.png)
 
 ### <font style="color:rgb(31, 31, 31);">Batch Modify Regions</font>
 <font style="color:rgb(31, 31, 31);">When you have </font>**multiple store-sourced apps selected**<font style="color:rgb(31, 31, 31);"> within the </font>**same app collection**<font style="color:rgb(31, 31, 31);">, you can switch them to the same region at once and attempt to refresh their displayed information.</font>
