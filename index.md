@@ -31,7 +31,7 @@ features:
 # ❓ 常见问题
 
 - [旧版本数据丢失恢复/找回](https://www.yuque.com/u291034/fz7nr2/ro42g9y7ez7ezbki)
-- [APP链接识别规则与地区功能的用法](https://www.yuque.com/u291034/fz7nr2/pfzcmra05umleo10)
+- [APP链接识别规则与地区功能的用法](/region/zh-CN)
 - [有的应用在详情页面没有截图](https://www.yuque.com/u291034/fz7nr2/mvo5sb4gew4zmg1c)
 - [能不能加一个应用标签🏷功能？](https://www.yuque.com/u291034/fz7nr2/nr98nrq7gz36agh0)
 - [数据更新设置是做什么用的](https://www.yuque.com/u291034/fz7nr2/liv9063d2fl1sd0e)

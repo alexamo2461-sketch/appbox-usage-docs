@@ -31,7 +31,7 @@ features:
 # ❓ FAQ
 
 - [Data Recovery: Restoring Lost Data from Older Versions](https://www.yuque.com/u291034/fz7nr2/irguob05wmp7zccd)
-- [App Link Recognition Rules & Regional Settings Usage](https://www.yuque.com/u291034/fz7nr2/rblxsxo0e2d1zx7w)
+- [App Link Recognition Rules & Regional Settings Usage](/region/en)
 - [Why do some apps have no screenshots on their details page?](https://www.yuque.com/u291034/fz7nr2/zk15v6g84rlqd9dd)
 - [What is the Data Update setting for?](https://www.yuque.com/u291034/fz7nr2/ce5qy7xtw57v4kpt)
 - [Can you add an App Tagging 🏷 feature?](https://www.yuque.com/u291034/fz7nr2/ehcl6fe2v45kbgux)
