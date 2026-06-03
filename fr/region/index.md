@@ -17,7 +17,7 @@ Cette fonctionnalité vous permet de : **trouver des applications disponibles da
 **Réglages → Applications → Région de l’application**
 
 <!-- Ceci est une image, contenu OCR : -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779116324525-f71fb9ff-b7b4-4b64-ac5d-9dea9679dbdf.png)
+![](../../assets/region/region-settings.png)
 
 Il s’agit de la **« Liste des régions de recherche »** : les pays ou régions activés. L’ordre **de haut en bas** correspond à la priorité (les éléments placés plus haut sont utilisés en premier ; cet ordre est également pris en compte lorsqu’il faut essayer plusieurs régions).
 
@@ -48,11 +48,11 @@ Lorsque vous collez ou partagez un **lien d’application App Store**, AppBox te
 
 ## Définir une région lors de l’ajout d’une application
 <!-- Ceci est une image, contenu OCR : -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779116579932-015d26dd-9859-4c1d-9b01-d6c426369256.png)
+![](../../assets/region/add-app-region.png)
 
 ## Afficher et modifier la région depuis la page de détails d’une application
 <!-- Ceci est une image, contenu OCR : -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779116920932-fc735b67-36dd-451c-bb7f-2669ec7ad928.png)
+![](../../assets/region/app-detail-region.png)
 
 ### Afficher la région
 Dans les détails de l’application, ouvrez **« Plus d’informations »**. La ligne **« Région »** affiche le nom de la boutique actuellement associé au code de région de cette application enregistrée.
@@ -69,7 +69,7 @@ Dans les détails de l’application, ouvrez **« Plus d’informations »**. La
 
 ## Gérer les régions d’application dans une collection
 <!-- Ceci est une image, contenu OCR : -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779117261097-c62ee177-b215-4c9a-b81c-f02bfa62c717.png)
+![](../../assets/region/collection-region.png)
 
 ### Modifier les régions en lot
 Lorsque plusieurs applications provenant de l’App Store sont sélectionnées dans une même **collection d’applications**, vous pouvez les basculer simultanément vers une même région afin d’actualiser leurs informations d’affichage.

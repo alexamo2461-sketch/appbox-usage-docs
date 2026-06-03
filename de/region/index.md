@@ -17,7 +17,7 @@ Damit kannst du: **Apps finden, die in dieser Region verfügbar sind**, **Namen 
 **Einstellungen → Apps → App-Region**
 
 <!-- Dies ist ein Bild, OCR-Inhalt: -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779116324525-f71fb9ff-b7b4-4b64-ac5d-9dea9679dbdf.png)
+![](../../assets/region/region-settings.png)
 
 Hier befindet sich die **„Regionsabfrageliste“**: aktivierte Länder oder Regionen. Die Reihenfolge **von oben nach unten** entspricht der Priorität (Einträge weiter oben werden zuerst verwendet; auch bei mehreren Regionen wird diese Reihenfolge berücksichtigt).
 
@@ -48,11 +48,11 @@ Wenn du einen **App-Store-Link** einfügst oder teilst, versucht AppBox möglich
 
 ## Region beim Hinzufügen einer App festlegen
 <!-- Dies ist ein Bild, OCR-Inhalt: -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779116579932-015d26dd-9859-4c1d-9b01-d6c426369256.png)
+![](../../assets/region/add-app-region.png)
 
 ## Region auf der App-Detailseite anzeigen und ändern
 <!-- Dies ist ein Bild, OCR-Inhalt: -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779116920932-fc735b67-36dd-451c-bb7f-2669ec7ad928.png)
+![](../../assets/region/app-detail-region.png)
 
 ### Region anzeigen
 Öffne in den App-Details den Bereich **„Weitere Informationen“**. Dort zeigt die Zeile **„Region“** den Namen der Store-Region an, die aktuell diesem gespeicherten Eintrag zugeordnet ist.
@@ -69,7 +69,7 @@ Wenn du einen **App-Store-Link** einfügst oder teilst, versucht AppBox möglich
 
 ## App-Regionen innerhalb einer App-Sammlung verwalten
 <!-- Dies ist ein Bild, OCR-Inhalt: -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779117261097-c62ee177-b215-4c9a-b81c-f02bfa62c717.png)
+![](../../assets/region/collection-region.png)
 
 ### Regionen gesammelt ändern
 Wenn innerhalb derselben **App-Sammlung** mehrere Store-basierte Apps ausgewählt wurden, können sie gleichzeitig auf dieselbe Region umgestellt werden, um die angezeigten Informationen gemeinsam zu aktualisieren.

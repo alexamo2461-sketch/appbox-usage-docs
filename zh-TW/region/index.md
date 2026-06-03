@@ -17,7 +17,7 @@
 **設定 → App → 應用地區**
 
 <!-- 這是一張圖片，ocr 內容為： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779116324525-f71fb9ff-b7b4-4b64-ac5d-9dea9679dbdf.png)
+![](../../assets/region/region-settings.png)
 
 這裡是 **「地區查詢列表」**：已啟用的國家或地區，**由上到下** 代表優先順序（排在前面的會優先查詢；需要嘗試多個地區時，也會參考此順序）。
 
@@ -48,11 +48,11 @@
 
 ## 新增 App 時指定地區
 <!-- 這是一張圖片，ocr 內容為： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779116579932-015d26dd-9859-4c1d-9b01-d6c426369256.png)
+![](../../assets/region/add-app-region.png)
 
 ## App 詳情頁：查看與修改地區
 <!-- 這是一張圖片，ocr 內容為： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779116920932-fc735b67-36dd-451c-bb7f-2669ec7ad928.png)
+![](../../assets/region/app-detail-region.png)
 
 ### 查看地區
 在 App 詳情頁中開啟 **「更多資訊」**，其中的 **「地區」** 欄位會顯示此收藏目前所對應的商店代碼名稱。
@@ -69,7 +69,7 @@
 
 ## 在應用集中操作應用地區
 <!-- 這是一張圖片，ocr 內容為： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779117261097-c62ee177-b215-4c9a-b81c-f02bfa62c717.png)
+![](../../assets/region/collection-region.png)
 
 ### 批次修改地區
 當你在 **同一個應用集** 中，已 **多選** 多個來自商店的 App 時，可一次切換至相同地區，並嘗試更新顯示資訊。

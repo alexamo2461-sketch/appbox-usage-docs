@@ -18,7 +18,7 @@ Bu özellik sayesinde:
 **Ayarlar → Uygulamalar → Uygulama Bölgesi**
 
 <!-- Bu bir görseldir, OCR içeriği: -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779116324525-f71fb9ff-b7b4-4b64-ac5d-9dea9679dbdf.png)
+![](../../assets/region/region-settings.png)
 
 Burası **“Bölge Sorgu Listesi”** ekranıdır: etkinleştirilen ülke veya bölgeleri gösterir. Liste sırası **yukarıdan aşağıya doğru** öncelik anlamına gelir (üstteki bölgeler önce sorgulanır; birden fazla bölge denendiğinde de bu sıra kullanılır).
 
@@ -49,11 +49,11 @@ Bir **App Store uygulama bağlantısı** yapıştırdığınızda veya paylaşt�
 
 ## Uygulama Eklerken Bölge Belirleme
 <!-- Bu bir görseldir, OCR içeriği: -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779116579932-015d26dd-9859-4c1d-9b01-d6c426369256.png)
+![](../../assets/region/add-app-region.png)
 
 ## Uygulama Detay Sayfasında Bölgeyi Görüntüleme ve Değiştirme
 <!-- Bu bir görseldir, OCR içeriği: -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779116920932-fc735b67-36dd-451c-bb7f-2669ec7ad928.png)
+![](../../assets/region/app-detail-region.png)
 
 ### Bölgeyi Görüntüleme
 Uygulama detay sayfasında **“Daha Fazla Bilgi”** bölümünü açın. Buradaki **“Bölge”** satırı, kayıtlı uygulamanın mevcut mağaza koduna karşılık gelen bölge adını gösterir.
@@ -70,7 +70,7 @@ Uygulama detay sayfasında **“Daha Fazla Bilgi”** bölümünü açın. Burad
 
 ## Uygulama Koleksiyonlarında Bölge Yönetimi
 <!-- Bu bir görseldir, OCR içeriği: -->
-![](https://cdn.nlark.com/yuque/0/2026/png/462556/1779117261097-c62ee177-b215-4c9a-b81c-f02bfa62c717.png)
+![](../../assets/region/collection-region.png)
 
 ### Bölgeleri Toplu Olarak Değiştirme
 Aynı **uygulama koleksiyonu** içinde birden fazla mağaza tabanlı uygulama seçildiğinde, bunları aynı bölgeye geçirip görüntü bilgilerini topluca güncelleyebilirsiniz.
