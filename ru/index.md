@@ -38,7 +38,6 @@ AppBox, как следует из названия, — это «коробка
 ## 💾 Импорт и экспорт данных
 
 - [Резервное копирование (экспорт данных)](/ru/backup-restore/export)
-- [Восстановление (импорт данных)](/ru/backup-restore/import)
 - [Импорт данных: данные, экспортированные из AppBox](/ru/backup-restore/data-import)
 - [Импорт данных: Apple data](/ru/backup-restore/apple-data)
 
