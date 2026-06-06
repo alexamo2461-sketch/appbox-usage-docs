@@ -2,9 +2,6 @@
 
 AppBox ist, wie der Name schon sagt, eine "Box für deine Apps" – ein Werkzeug zum Sammeln und Verwalten von Anwendungen. Du kannst deine Lieblingsapps organisieren, indem du **Sammlungen** erstellst, mit Sammlungsbeschreibungen, App-Notizen und benutzerdefinierten Attributen.
 
-## 📖 Erste Schritte
-
-- [Startseite](/de/)
 - [Feedback](/de/feedback/contact-developer)
 
 ## ❓ FAQ
@@ -21,9 +18,28 @@ AppBox ist, wie der Name schon sagt, eine "Box für deine Apps" – ein Werkzeug
 - [Über die Share Extension hinzufügen](/de/how-to-add-apps/share-extension)
 - [QR-Code oder Link zum Importieren](/de/how-to-add-apps/qr-link-import)
 
-## 🗺️ Produkt-Roadmap
+## 🔧 Grundfunktionen
 
-- [Versionsprotokoll](/de/roadmap/release-notes)
+### Sammlungsverwaltung
+
+- [Sammlungen erstellen und bearbeiten](/de/collection-management/create-edit)
+- [Sammlungsansicht wechseln](/de/collection-management/switch-view)
+- [Sammlungen sortieren](/de/collection-management/sort)
+- [Sammlungen teilen](/de/collection-management/share)
+- [Leere Sammlungen erkennen](/de/collection-management/empty-detect)
+
+### App-Verwaltung
+
+- [App-Beschreibung bearbeiten](/de/app-management/edit-description)
+- [App-Ansicht wechseln](/de/app-management/switch-view)
+- [Apps kopieren/verschieben](/de/app-management/copy-move)
+- [Mehrfachauswahl](/de/app-management/multi-select)
+
+### App-Details
+
+- [App-Detailseite](/de/app-details/overview)
+- [Sortierfunktion](/de/app-details/sort-order)
+- [Übersetzungsfunktion](/de/app-details/translation)
 
 ## ⭐ Mitgliedschaft
 
@@ -41,13 +57,12 @@ AppBox ist, wie der Name schon sagt, eine "Box für deine Apps" – ein Werkzeug
 - [Datenimport: Aus AppBox exportierte Daten](/de/backup-restore/data-import)
 - [Datenimport: Apple-Daten](/de/backup-restore/apple-data)
 
-## 🔧 Grundfunktionen
-
-- [Sammlungsverwaltung](/de/collection-management/)
-- [App-Verwaltung](/de/app-management/)
-- [App-Details](/de/app-details/)
-
 ## ⚙️ Einstellungen
 
 - [Datenaktualisierung](/de/settings/data-update)
 - [Theme-Einstellungen (Farbe und Modus)](/de/settings/theme)
+
+## 📄 Mehr
+
+- [Datenschutzrichtlinie](/de/privacy-policy)
+- [Versionsprotokoll](/de/roadmap/release-notes)

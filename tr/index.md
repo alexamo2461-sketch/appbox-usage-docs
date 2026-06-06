@@ -2,9 +2,6 @@
 
 AppBox, adından da anlaşılacağı gibi "uygulamalarınız için bir kutu"dur – uygulamaları toplamak ve yönetmek için tasarlanmış bir araçtır. **Koleksiyonlar** oluşturarak favori uygulamalarınızı düzenlemenize olanak tanır; koleksiyon açıklamaları, uygulama notları ve özel nitelik takibi gibi özellikler sunar.
 
-## 📖 Başlangıç
-
-- [Ana Sayfa](/tr/)
 - [Geri Bildirim](/tr/feedback/contact-developer)
 
 ## ❓ SSS
@@ -21,9 +18,28 @@ AppBox, adından da anlaşılacağı gibi "uygulamalarınız için bir kutu"dur 
 - [Paylaşım eklentisi ile uygulama ekleme](/tr/how-to-add-apps/share-extension)
 - [QR kod veya bağlantıdan içe aktarma](/tr/how-to-add-apps/qr-link-import)
 
-## 🗺️ Ürün Yol Haritası
+## 🔧 Temel Özellikler
 
-- [Sürüm günlüğü](/tr/roadmap/release-notes)
+### Koleksiyon Yönetimi
+
+- [Koleksiyon oluşturma ve düzenleme](/tr/collection-management/create-edit)
+- [Koleksiyon görünümünü değiştirme](/tr/collection-management/switch-view)
+- [Koleksiyonları sıralama](/tr/collection-management/sort)
+- [Koleksiyonları paylaşma](/tr/collection-management/share)
+- [Boş koleksiyon tespiti](/tr/collection-management/empty-detect)
+
+### Uygulama Yönetimi
+
+- [Uygulama açıklamasını düzenleme](/tr/app-management/edit-description)
+- [Uygulama görünümünü değiştirme](/tr/app-management/switch-view)
+- [Uygulamaları kopyalama/taşıma](/tr/app-management/copy-move)
+- [Çoklu seçim işlemleri](/tr/app-management/multi-select)
+
+### Uygulama Detayları
+
+- [Uygulama detay sayfası](/tr/app-details/overview)
+- [Sıralama işlevi](/tr/app-details/sort-order)
+- [Çeviri işlevi](/tr/app-details/translation)
 
 ## ⭐ Üyelik
 
@@ -41,13 +57,12 @@ AppBox, adından da anlaşılacağı gibi "uygulamalarınız için bir kutu"dur 
 - [Veri içe aktarma: AppBox'tan dışa aktarılan veriler](/tr/backup-restore/data-import)
 - [Veri içe aktarma: Apple data](/tr/backup-restore/apple-data)
 
-## 🔧 Temel Özellikler
-
-- [Koleksiyon Yönetimi](/tr/collection-management/)
-- [Uygulama Yönetimi](/tr/app-management/)
-- [Uygulama Detayları](/tr/app-details/)
-
 ## ⚙️ Ayarlar
 
 - [Veri güncelleme](/tr/settings/data-update)
 - [Tema ayarları (renk ve mod)](/tr/settings/theme)
+
+## 📄 Daha Fazla
+
+- [Gizlilik Politikası](/tr/privacy-policy)
+- [Sürüm günlüğü](/tr/roadmap/release-notes)

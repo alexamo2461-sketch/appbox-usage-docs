@@ -2,9 +2,6 @@
 
 As the name suggests, **AppBox** is a "box for your apps"—a utility designed for collecting and managing applications. It allows you to organize your favorite apps by creating **App Collections**, complete with features such as collection descriptions, app-specific notes, and customizable attribute tracking.
 
-## 📖 Getting Started
-
-- [Home](/en/)
 - [Feedback](/en/feedback/contact-developer)
 
 ## ❓ FAQ
@@ -19,11 +16,30 @@ As the name suggests, **AppBox** is a "box for your apps"—a utility designed f
 
 - [Direct Addition within AppBox](/en/how-to-add-apps/direct-add)
 - [Add via Share Extension](/en/how-to-add-apps/share-extension)
-- [Add via Shortcuts](/en/how-to-add-apps/qr-link-import)
+- [Add via QR Code or Link](/en/how-to-add-apps/qr-link-import)
 
-## 🗺️ Product Roadmap
+## 🔧 Core Features
 
-- [Release Notes](/en/roadmap/release-notes)
+### Collection Management
+
+- [Create & Edit Collections](/en/collection-management/create-edit)
+- [Switch Collection View](/en/collection-management/switch-view)
+- [Sort Collections](/en/collection-management/sort)
+- [Share Collections](/en/collection-management/share)
+- [Empty Collection Detection](/en/collection-management/empty-detect)
+
+### App Management
+
+- [Edit App Description](/en/app-management/edit-description)
+- [Switch App View](/en/app-management/switch-view)
+- [Copy/Move Apps](/en/app-management/copy-move)
+- [Multi-Select Operations](/en/app-management/multi-select)
+
+### App Details
+
+- [App Details Page Overview](/en/app-details/overview)
+- [Sort Order Feature](/en/app-details/sort-order)
+- [Translation Feature](/en/app-details/translation)
 
 ## ⭐ Pro Info
 
@@ -41,12 +57,12 @@ As the name suggests, **AppBox** is a "box for your apps"—a utility designed f
 - [Data Import: Data exported from AppBox](/en/backup-restore/data-import)
 - [Data Import: Apple data](/en/backup-restore/apple-data)
 
-## 🔧 Core Features
-
-- [Collection Management](/en/collection-management/)
-- [App Management](/en/app-management/)
-- [App Details](/en/app-details/)
-
 ## ⚙️ Settings
 
+- [Data Update](/en/settings/data-update)
 - [Theme Settings (Color and Appearance)](/en/settings/theme)
+
+## 📄 More
+
+- [Privacy Policy](/en/privacy-policy)
+- [Release Notes](/en/roadmap/release-notes)

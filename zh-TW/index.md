@@ -2,9 +2,6 @@
 
 AppBox 顧名思義「用來放應用的盒子」，是一個用來收藏和管理應用的工具軟體，可以通過創建「應用集」的方式將喜歡的應用記錄下來並提供應用集說明、應用說明、記錄自定義的屬性資訊等功能。
 
-## 📖 開始
-
-- [首頁](/zh-TW/)
 - [建議與反饋](/zh-TW/feedback/contact-developer)
 
 ## ❓ 常見問題
@@ -21,9 +18,28 @@ AppBox 顧名思義「用來放應用的盒子」，是一個用來收藏和管�
 - [通過分享外掛添加應用](/zh-TW/how-to-add-apps/share-extension)
 - [從二維碼或連結導入](/zh-TW/how-to-add-apps/qr-link-import)
 
-## 🗺️ 產品路線圖
+## 🔧 基礎功能
 
-- [版本日誌](/zh-TW/roadmap/release-notes)
+### 應用集管理
+
+- [新建與編輯應用集](/zh-TW/collection-management/create-edit)
+- [切換應用集視圖](/zh-TW/collection-management/switch-view)
+- [應用集排序](/zh-TW/collection-management/sort)
+- [分享應用集](/zh-TW/collection-management/share)
+- [空應用集檢測](/zh-TW/collection-management/empty-detect)
+
+### 應用管理
+
+- [編輯應用說明](/zh-TW/app-management/edit-description)
+- [切換應用視圖](/zh-TW/app-management/switch-view)
+- [複製/移動應用](/zh-TW/app-management/copy-move)
+- [應用多選操作](/zh-TW/app-management/multi-select)
+
+### 應用詳情
+
+- [應用詳情頁面說明](/zh-TW/app-details/overview)
+- [顯示順序排序功能](/zh-TW/app-details/sort-order)
+- [翻譯功能](/zh-TW/app-details/translation)
 
 ## ⭐ 會員相關
 
@@ -41,13 +57,12 @@ AppBox 顧名思義「用來放應用的盒子」，是一個用來收藏和管�
 - [數據導入：AppBox導出的數據](/zh-TW/backup-restore/data-import)
 - [數據導入：Apple data數據](/zh-TW/backup-restore/apple-data)
 
-## 🔧 基礎功能
-
-- [應用集管理](/zh-TW/collection-management/)
-- [應用管理](/zh-TW/app-management/)
-- [應用詳情](/zh-TW/app-details/)
-
 ## ⚙️ 設定功能
 
 - [數據更新](/zh-TW/settings/data-update)
 - [設定主題（顏色與模式）](/zh-TW/settings/theme)
+
+## 📄 更多
+
+- [隱私政策](/zh-TW/privacy-policy)
+- [版本日誌](/zh-TW/roadmap/release-notes)

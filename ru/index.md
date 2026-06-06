@@ -2,9 +2,6 @@
 
 AppBox, как следует из названия, — это «коробка для ваших приложений», инструмент для сбора и управления приложениями. Вы можете организовать свои любимые приложения, создавая **коллекции**, с функциями описания коллекции, заметок о приложениях и пользовательских атрибутов.
 
-## 📖 Начало
-
-- [Главная](/ru/)
 - [Обратная связь](/ru/feedback/contact-developer)
 
 ## ❓ Часто задаваемые вопросы
@@ -21,9 +18,28 @@ AppBox, как следует из названия, — это «коробка
 - [Добавление через расширение «Поделиться»](/ru/how-to-add-apps/share-extension)
 - [Импорт по QR-коду или ссылке](/ru/how-to-add-apps/qr-link-import)
 
-## 🗺️ Дорожная карта
+## 🔧 Основные функции
 
-- [Журнал версий](/ru/roadmap/release-notes)
+### Управление коллекциями
+
+- [Создание и редактирование коллекций](/ru/collection-management/create-edit)
+- [Переключение вида коллекций](/ru/collection-management/switch-view)
+- [Сортировка коллекций](/ru/collection-management/sort)
+- [Общий доступ к коллекциям](/ru/collection-management/share)
+- [Обнаружение пустых коллекций](/ru/collection-management/empty-detect)
+
+### Управление приложениями
+
+- [Редактирование описания приложения](/ru/app-management/edit-description)
+- [Переключение вида приложений](/ru/app-management/switch-view)
+- [Копирование/перемещение приложений](/ru/app-management/copy-move)
+- [Множественный выбор приложений](/ru/app-management/multi-select)
+
+### Детали приложения
+
+- [Страница сведений о приложении](/ru/app-details/overview)
+- [Функция сортировки](/ru/app-details/sort-order)
+- [Функция перевода](/ru/app-details/translation)
 
 ## ⭐ Подписка
 
@@ -41,13 +57,12 @@ AppBox, как следует из названия, — это «коробка
 - [Импорт данных: данные, экспортированные из AppBox](/ru/backup-restore/data-import)
 - [Импорт данных: Apple data](/ru/backup-restore/apple-data)
 
-## 🔧 Основные функции
-
-- [Управление коллекциями](/ru/collection-management/)
-- [Управление приложениями](/ru/app-management/)
-- [Детали приложения](/ru/app-details/)
-
 ## ⚙️ Настройки
 
 - [Обновление данных](/ru/settings/data-update)
 - [Настройки темы (цвет и режим)](/ru/settings/theme)
+
+## 📄 Ещё
+
+- [Политика конфиденциальности](/ru/privacy-policy)
+- [Журнал версий](/ru/roadmap/release-notes)
