@@ -34,6 +34,19 @@ AppBox는 이름 그대로 "앱을 담는 상자"로, 앱을 수집하고 관리
 - [앱 보기 전환](/ko/app-management/switch-view)
 - [앱 복사/이동](/ko/app-management/copy-move)
 - [앱 다중 선택 작업](/ko/app-management/multi-select)
+- [컬렉션 내 필터링](/ko/app-management/filtering)
+
+### 검색 기능
+
+- [앱 및 컬렉션 검색](/ko/search/)
+
+### 통계 기능
+
+- [데이터 통계](/ko/statistics/)
+
+### 앱 태그
+
+- [태그 기능](/ko/tags/)
 
 ### 앱 상세
 
@@ -59,8 +72,11 @@ AppBox는 이름 그대로 "앱을 담는 상자"로, 앱을 수집하고 관리
 
 ## ⚙️ 설정
 
-- [데이터 업데이트](/ko/settings/data-update)
 - [테마 설정 (색상 및 모드)](/ko/settings/theme)
+- [표시 설정](/ko/settings/display-configuration)
+- [공유 관리](/ko/settings/share-management)
+- [앱 속성](/ko/settings/app-properties)
+- [데이터 관리](/ko/settings/data-management)
 
 ## 📄 더보기
 

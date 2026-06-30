@@ -16,6 +16,19 @@ AppBoxの基本機能モジュール。アプリの管理と使用をより良�
 - [アプリビューの切り替え](/ja/app-management/switch-view)
 - [アプリのコピー/移動](/ja/app-management/copy-move)
 - [アプリの複数選択操作](/ja/app-management/multi-select)
+- [コレクション内フィルター](/ja/app-management/filtering)
+
+## 🔍 検索機能
+
+- [アプリとコレクションの検索](/ja/search/)
+
+## 📊 統計機能
+
+- [データ統計](/ja/statistics/)
+
+## 🏷️ アプリタグ
+
+- [タグ機能](/ja/tags/)
 
 ## ℹ️ アプリ詳細
 

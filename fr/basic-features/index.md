@@ -16,6 +16,19 @@ Les modules de fonctionnalités de base d'AppBox pour vous aider à mieux gérer
 - [Changer la vue de l'application](/fr/app-management/switch-view)
 - [Copier/déplacer une application](/fr/app-management/copy-move)
 - [Opérations multi-sélection](/fr/app-management/multi-select)
+- [Filtrage dans les collections](/fr/app-management/filtering)
+
+## 🔍 Fonction de recherche
+
+- [Rechercher des apps et des collections](/fr/search/)
+
+## 📊 Fonction de statistiques
+
+- [Statistiques des données](/fr/statistics/)
+
+## 🏷️ Étiquettes d'app
+
+- [Fonctionnalité d'étiquettes](/fr/tags/)
 
 ## ℹ️ Détails de l'application
 

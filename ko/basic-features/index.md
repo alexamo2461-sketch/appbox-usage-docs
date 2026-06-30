@@ -16,6 +16,19 @@ AppBox의 기본 기능 모듈로, 앱을 더 잘 관리하고 사용할 수 있
 - [앱 보기 전환](/ko/app-management/switch-view)
 - [앱 복사/이동](/ko/app-management/copy-move)
 - [앱 다중 선택 작업](/ko/app-management/multi-select)
+- [컬렉션 내 필터링](/ko/app-management/filtering)
+
+## 🔍 검색 기능
+
+- [앱 및 컬렉션 검색](/ko/search/)
+
+## 📊 통계 기능
+
+- [데이터 통계](/ko/statistics/)
+
+## 🏷️ 앱 태그
+
+- [태그 기능](/ko/tags/)
 
 ## ℹ️ 앱 상세
 

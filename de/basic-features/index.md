@@ -16,6 +16,19 @@ Die grundlegenden Funktionsmodule von AppBox für eine bessere Verwaltung und Nu
 - [App-Ansicht wechseln](/de/app-management/switch-view)
 - [App kopieren/verschieben](/de/app-management/copy-move)
 - [Mehrfachauswahl](/de/app-management/multi-select)
+- [Filterung innerhalb von Sammlungen](/de/app-management/filtering)
+
+## 🔍 Suchfunktion
+
+- [Apps und Sammlungen suchen](/de/search/)
+
+## 📊 Statistikfunktion
+
+- [Datenstatistik](/de/statistics/)
+
+## 🏷️ App-Tags
+
+- [Tag-Funktion](/de/tags/)
 
 ## ℹ️ App-Details
 

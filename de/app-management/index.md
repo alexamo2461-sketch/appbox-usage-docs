@@ -4,3 +4,4 @@
 - [App-Ansicht wechseln](/de/app-management/switch-view)
 - [App kopieren/verschieben](/de/app-management/copy-move)
 - [Mehrfachauswahl](/de/app-management/multi-select)
+- [Filterung innerhalb von Sammlungen](/de/app-management/filtering)

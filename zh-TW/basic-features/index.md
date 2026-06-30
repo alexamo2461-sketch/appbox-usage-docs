@@ -16,6 +16,19 @@ AppBox 的基礎功能模組，幫助你更好地管理和使用應用：
 - [切換應用視圖](/zh-TW/app-management/switch-view)
 - [複製/移動應用](/zh-TW/app-management/copy-move)
 - [應用多選操作](/zh-TW/app-management/multi-select)
+- [應用集內篩選](/zh-TW/app-management/filtering)
+
+## 🔍 搜尋功能
+
+- [搜尋應用和應用集](/zh-TW/search/)
+
+## 📊 統計功能
+
+- [數據統計](/zh-TW/statistics/)
+
+## 🏷️ 應用標籤
+
+- [標籤功能](/zh-TW/tags/)
 
 ## ℹ️ 應用詳情
 

@@ -34,6 +34,19 @@ AppBox, как следует из названия, — это «коробка
 - [Переключение вида приложений](/ru/app-management/switch-view)
 - [Копирование/перемещение приложений](/ru/app-management/copy-move)
 - [Множественный выбор приложений](/ru/app-management/multi-select)
+- [Фильтрация в коллекции](/ru/app-management/filtering)
+
+### Функция поиска
+
+- [Поиск приложений и коллекций](/ru/search/)
+
+### Функция статистики
+
+- [Статистика данных](/ru/statistics/)
+
+### Теги приложений
+
+- [Функция тегов](/ru/tags/)
 
 ### Детали приложения
 
@@ -59,8 +72,11 @@ AppBox, как следует из названия, — это «коробка
 
 ## ⚙️ Настройки
 
-- [Обновление данных](/ru/settings/data-update)
 - [Настройки темы (цвет и режим)](/ru/settings/theme)
+- [Настройка отображения](/ru/settings/display-configuration)
+- [Управление общим доступом](/ru/settings/share-management)
+- [Свойства приложения](/ru/settings/app-properties)
+- [Управление данными](/ru/settings/data-management)
 
 ## 📄 Ещё
 

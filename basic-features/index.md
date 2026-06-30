@@ -16,6 +16,19 @@ AppBox 的基础功能模块，帮助你更好地管理和使用应用：
 - [切换应用视图](/app-management/switch-view)
 - [复制/移动应用](/app-management/copy-move)
 - [应用多选操作](/app-management/multi-select)
+- [应用集内筛选](/app-management/filtering)
+
+## 🔍 搜索功能
+
+- [搜索应用和应用集](/search/)
+
+## 📊 统计功能
+
+- [数据统计](/statistics/)
+
+## 🏷️ 应用标签
+
+- [标签功能](/tags/)
 
 ## ℹ️ 应用详情
 

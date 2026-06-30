@@ -4,3 +4,4 @@
 - [切換應用視圖](/zh-TW/app-management/switch-view)
 - [複製/移動應用](/zh-TW/app-management/copy-move)
 - [應用多選操作](/zh-TW/app-management/multi-select)
+- [應用集內篩選](/zh-TW/app-management/filtering)

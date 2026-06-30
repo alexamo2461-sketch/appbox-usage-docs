@@ -4,3 +4,4 @@
 - [앱 보기 전환](/ko/app-management/switch-view)
 - [앱 복사/이동](/ko/app-management/copy-move)
 - [앱 다중 선택 작업](/ko/app-management/multi-select)
+- [컬렉션 내 필터링](/ko/app-management/filtering)

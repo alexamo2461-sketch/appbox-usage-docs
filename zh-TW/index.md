@@ -34,6 +34,19 @@ AppBox 顧名思義「用來放應用的盒子」，是一個用來收藏和管�
 - [切換應用視圖](/zh-TW/app-management/switch-view)
 - [複製/移動應用](/zh-TW/app-management/copy-move)
 - [應用多選操作](/zh-TW/app-management/multi-select)
+- [應用集內篩選](/zh-TW/app-management/filtering)
+
+### 搜尋功能
+
+- [搜尋應用和應用集](/zh-TW/search/)
+
+### 統計功能
+
+- [數據統計](/zh-TW/statistics/)
+
+### 應用標籤
+
+- [標籤功能](/zh-TW/tags/)
 
 ### 應用詳情
 
@@ -59,8 +72,11 @@ AppBox 顧名思義「用來放應用的盒子」，是一個用來收藏和管�
 
 ## ⚙️ 設定功能
 
-- [數據更新](/zh-TW/settings/data-update)
 - [設定主題（顏色與模式）](/zh-TW/settings/theme)
+- [功能配置](/zh-TW/settings/display-configuration)
+- [分享管理](/zh-TW/settings/share-management)
+- [應用屬性](/zh-TW/settings/app-properties)
+- [數據管理](/zh-TW/settings/data-management)
 
 ## 📄 更多
 

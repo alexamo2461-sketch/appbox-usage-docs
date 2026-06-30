@@ -34,6 +34,19 @@ AppBox 顾名思义"用来放应用的盒子"，是一个用来收藏和管理�
 - [切换应用视图](/app-management/switch-view)
 - [复制/移动应用](/app-management/copy-move)
 - [应用多选操作](/app-management/multi-select)
+- [应用集内筛选](/app-management/filtering)
+
+### 搜索功能
+
+- [搜索应用和应用集](/search/)
+
+### 统计功能
+
+- [数据统计](/statistics/)
+
+### 应用标签
+
+- [标签功能](/tags/)
 
 ### 应用详情
 
@@ -59,8 +72,11 @@ AppBox 顾名思义"用来放应用的盒子"，是一个用来收藏和管理�
 
 ## ⚙️ 设置功能
 
-- [数据更新](/settings/data-update)
 - [设置主题（颜色与模式）](/settings/theme)
+- [功能配置](/settings/display-configuration)
+- [分享管理](/settings/share-management)
+- [应用属性](/settings/app-properties)
+- [数据管理](/settings/data-management)
 
 ## 📄 更多
 

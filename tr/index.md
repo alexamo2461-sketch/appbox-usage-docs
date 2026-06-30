@@ -34,6 +34,19 @@ AppBox, adından da anlaşılacağı gibi "uygulamalarınız için bir kutu"dur 
 - [Uygulama görünümünü değiştirme](/tr/app-management/switch-view)
 - [Uygulamaları kopyalama/taşıma](/tr/app-management/copy-move)
 - [Çoklu seçim işlemleri](/tr/app-management/multi-select)
+- [Koleksiyon içi filtreleme](/tr/app-management/filtering)
+
+### Arama Özelliği
+
+- [Uygulama ve koleksiyon arama](/tr/search/)
+
+### İstatistik Özelliği
+
+- [Veri istatistikleri](/tr/statistics/)
+
+### Uygulama Etiketleri
+
+- [Etiket özelliği](/tr/tags/)
 
 ### Uygulama Detayları
 
@@ -59,8 +72,11 @@ AppBox, adından da anlaşılacağı gibi "uygulamalarınız için bir kutu"dur 
 
 ## ⚙️ Ayarlar
 
-- [Veri güncelleme](/tr/settings/data-update)
 - [Tema ayarları (renk ve mod)](/tr/settings/theme)
+- [Görüntüleme Yapılandırması](/tr/settings/display-configuration)
+- [Paylaşım Yönetimi](/tr/settings/share-management)
+- [Uygulama Özellikleri](/tr/settings/app-properties)
+- [Veri Yönetimi](/tr/settings/data-management)
 
 ## 📄 Daha Fazla
 

@@ -34,6 +34,19 @@ AppBoxはその名の通り「アプリを入れるための箱」であり、�
 - [アプリビューの切り替え](/ja/app-management/switch-view)
 - [アプリのコピー/移動](/ja/app-management/copy-move)
 - [アプリの複数選択操作](/ja/app-management/multi-select)
+- [コレクション内フィルター](/ja/app-management/filtering)
+
+### 検索機能
+
+- [アプリとコレクションの検索](/ja/search/)
+
+### 統計機能
+
+- [データ統計](/ja/statistics/)
+
+### アプリタグ
+
+- [タグ機能](/ja/tags/)
 
 ### アプリ詳細
 
@@ -59,8 +72,11 @@ AppBoxはその名の通り「アプリを入れるための箱」であり、�
 
 ## ⚙️ 設定
 
-- [データ更新](/ja/settings/data-update)
 - [テーマ設定（色とモード）](/ja/settings/theme)
+- [表示設定](/ja/settings/display-configuration)
+- [共有管理](/ja/settings/share-management)
+- [アプリ属性](/ja/settings/app-properties)
+- [データ管理](/ja/settings/data-management)
 
 ## 📄 その他
 

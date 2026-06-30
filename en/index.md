@@ -34,6 +34,19 @@ As the name suggests, **AppBox** is a "box for your apps"—a utility designed f
 - [Switch App View](/en/app-management/switch-view)
 - [Copy/Move Apps](/en/app-management/copy-move)
 - [Multi-Select Operations](/en/app-management/multi-select)
+- [In-Collection Filtering](/en/app-management/filtering)
+
+### Search
+
+- [Search Apps and Collections](/en/search/)
+
+### Statistics
+
+- [Data Statistics](/en/statistics/)
+
+### App Tags
+
+- [Tag Feature](/en/tags/)
 
 ### App Details
 
@@ -59,8 +72,11 @@ As the name suggests, **AppBox** is a "box for your apps"—a utility designed f
 
 ## ⚙️ Settings
 
-- [Data Update](/en/settings/data-update)
 - [Theme Settings (Color and Appearance)](/en/settings/theme)
+- [Display Configuration](/en/settings/display-configuration)
+- [Share Management](/en/settings/share-management)
+- [App Properties](/en/settings/app-properties)
+- [Data Management](/en/settings/data-management)
 
 ## 📄 More
 

@@ -34,6 +34,19 @@ AppBox ist, wie der Name schon sagt, eine "Box für deine Apps" – ein Werkzeug
 - [App-Ansicht wechseln](/de/app-management/switch-view)
 - [Apps kopieren/verschieben](/de/app-management/copy-move)
 - [Mehrfachauswahl](/de/app-management/multi-select)
+- [Filterung innerhalb von Sammlungen](/de/app-management/filtering)
+
+### Suchfunktion
+
+- [Apps und Sammlungen suchen](/de/search/)
+
+### Statistikfunktion
+
+- [Datenstatistik](/de/statistics/)
+
+### App-Tags
+
+- [Tag-Funktion](/de/tags/)
 
 ### App-Details
 
@@ -59,8 +72,11 @@ AppBox ist, wie der Name schon sagt, eine "Box für deine Apps" – ein Werkzeug
 
 ## ⚙️ Einstellungen
 
-- [Datenaktualisierung](/de/settings/data-update)
 - [Theme-Einstellungen (Farbe und Modus)](/de/settings/theme)
+- [Anzeige-Konfiguration](/de/settings/display-configuration)
+- [Freigabeverwaltung](/de/settings/share-management)
+- [App-Eigenschaften](/de/settings/app-properties)
+- [Datenverwaltung](/de/settings/data-management)
 
 ## 📄 Mehr
 
